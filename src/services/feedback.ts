@@ -1,7 +1,7 @@
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 
 export function saveFeedback(
-  db: DatabaseSync,
+  db: Database.Database,
   userId: number | null,
   text: string | null,
   photo: string | null
@@ -11,7 +11,7 @@ export function saveFeedback(
   ).run(userId, text, photo, 'new');
 }
 
-export function getFeedbackCount(db: DatabaseSync): number {
+export function getFeedbackCount(db: Database.Database): number {
   const row = db.prepare('SELECT COUNT(*) as count FROM feedback').get() as { count: number };
   return row.count;
 }

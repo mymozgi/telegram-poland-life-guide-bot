@@ -1,11 +1,11 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext, CATEGORIES, Category } from '../types';
 import { t } from '../locales';
 import { getArticlesByCategory } from '../services/content';
 import { trackEvent } from '../analytics/tracker';
 
-export function registerCategoriesHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerCategoriesHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
     '📚 Categories', '📚 Kategorie', '📚 Категорії', '📚 Категории',
   ], async (ctx) => {

@@ -1,11 +1,11 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 import { getUserFavorites } from '../services/favorites';
 import { getArticleBySlug } from '../services/content';
 
-export function registerFavoritesHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerFavoritesHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
     '⭐ Favorites', '⭐ Ulubione', '⭐ Улюблені', '⭐ Избранное',
   ], async (ctx) => {
@@ -18,7 +18,7 @@ export function registerFavoritesHandler(bot: Telegraf<BotContext>, db: Database
   });
 }
 
-async function showFavorites(ctx: BotContext, db: DatabaseSync, edit = false): Promise<void> {
+async function showFavorites(ctx: BotContext, db: Database.Database, edit = false): Promise<void> {
   const loc = t(ctx.userLanguage);
   const favorites = getUserFavorites(db, ctx.dbUserId);
 

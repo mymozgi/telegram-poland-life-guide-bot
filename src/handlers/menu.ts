@@ -1,9 +1,9 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 
-export function registerMenuHandler(bot: Telegraf<BotContext>, _db: DatabaseSync): void {
+export function registerMenuHandler(bot: Telegraf<BotContext>, _db: Database.Database): void {
   bot.hears(/(🏠|Menu|Меню|Menü|menu)/i, async (ctx) => {
     await showMainMenu(ctx);
   });

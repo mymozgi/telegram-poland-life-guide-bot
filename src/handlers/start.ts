@@ -1,10 +1,10 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 import { showMainMenu } from './menu';
 
-export function registerStartHandler(bot: Telegraf<BotContext>, _db: DatabaseSync): void {
+export function registerStartHandler(bot: Telegraf<BotContext>, _db: Database.Database): void {
   bot.start(async (ctx) => {
     await ctx.reply(
       t(ctx.userLanguage).welcome,

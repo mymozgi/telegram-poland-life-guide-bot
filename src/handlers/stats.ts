@@ -1,9 +1,9 @@
 import http from 'http';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { config } from '../config';
 import { getStats } from '../analytics/tracker';
 
-export function startStatsServer(db: DatabaseSync): void {
+export function startStatsServer(db: Database.Database): void {
   const server = http.createServer((req, res) => {
     if (req.url === '/stats' && req.method === 'GET') {
       try {

@@ -1,5 +1,5 @@
 import { Telegraf } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext, LANGUAGES, Language } from '../types';
 import { t } from '../locales';
 import { setUserLanguage } from '../services/user';
@@ -7,7 +7,7 @@ import { trackEvent } from '../analytics/tracker';
 import { showMainMenu } from './menu';
 import { showLanguageSelection } from './start';
 
-export function registerLanguageHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerLanguageHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   for (const lang of LANGUAGES) {
     bot.action(`lang:${lang}`, async (ctx) => {
       await ctx.answerCbQuery();

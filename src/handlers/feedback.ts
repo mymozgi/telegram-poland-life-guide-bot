@@ -1,12 +1,12 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 import { saveFeedback } from '../services/feedback';
 import { trackEvent } from '../analytics/tracker';
 import { showMainMenu } from './menu';
 
-export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
     '💡 Suggest improvement', '💡 Zaproponuj ulepszenie',
     '💡 Запропонувати покращення', '💡 Предложить улучшение',

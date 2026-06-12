@@ -1,5 +1,5 @@
 import { Telegraf, session } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext, SessionData } from '../types';
 import { config } from '../config';
 import { userMiddleware } from './middleware';
@@ -20,7 +20,7 @@ const defaultSession = (): SessionData => ({
   lastCategory: undefined,
 });
 
-export function createBot(db: DatabaseSync): Telegraf<BotContext> {
+export function createBot(db: Database.Database): Telegraf<BotContext> {
   const bot = new Telegraf<BotContext>(config.BOT_TOKEN);
 
   bot.use(session({ defaultSession }));

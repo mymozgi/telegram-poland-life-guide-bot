@@ -16,8 +16,9 @@ async function main(): Promise<void> {
   process.once('SIGINT', () => bot.stop('SIGINT'));
   process.once('SIGTERM', () => bot.stop('SIGTERM'));
 
-  await bot.launch();
-  console.log('Bot started successfully!');
+  await bot.launch({}, () => {
+    console.log('Bot started successfully!');
+  });
 }
 
 main().catch((err) => {

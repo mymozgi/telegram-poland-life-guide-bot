@@ -1,12 +1,12 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 import { searchArticles } from '../search/index';
 import { trackEvent } from '../analytics/tracker';
 import { showMainMenu } from './menu';
 
-export function registerSearchHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerSearchHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
     '🔍 Ask question', '🔍 Zadaj pytanie', '🔍 Задати питання', '🔍 Задать вопрос',
   ], async (ctx) => {

@@ -1,4 +1,4 @@
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 
 export type EventType =
   | 'language_selected'
@@ -8,7 +8,7 @@ export type EventType =
   | 'feedback_sent';
 
 export function trackEvent(
-  db: DatabaseSync,
+  db: Database.Database,
   userId: number | null,
   eventType: EventType,
   payload?: Record<string, unknown>
@@ -25,7 +25,7 @@ export interface StatsData {
   unanswered_queries: Array<{ query: string; count: number }>;
 }
 
-export function getStats(db: DatabaseSync): StatsData {
+export function getStats(db: Database.Database): StatsData {
   const userCount = (db.prepare('SELECT COUNT(*) as count FROM users').get() as { count: number }).count;
 
   const topCategories = db.prepare(`

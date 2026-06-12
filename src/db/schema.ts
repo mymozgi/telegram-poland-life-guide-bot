@@ -1,6 +1,6 @@
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 
-export function runMigrations(db: DatabaseSync): void {
+export function runMigrations(db: Database.Database): void {
   db.exec(`
     CREATE TABLE IF NOT EXISTS users (
       id INTEGER PRIMARY KEY AUTOINCREMENT,

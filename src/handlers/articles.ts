@@ -1,5 +1,5 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext, Article, Category } from '../types';
 import { t } from '../locales';
 import { getArticleBySlug } from '../services/content';
@@ -9,7 +9,7 @@ import path from 'path';
 import fs from 'fs';
 import { config } from '../config';
 
-export function registerArticlesHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerArticlesHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.action(/^art:(.+)$/, async (ctx) => {
     await ctx.answerCbQuery();
     const slug = ctx.match[1];
@@ -32,7 +32,7 @@ export function registerArticlesHandler(bot: Telegraf<BotContext>, db: DatabaseS
   });
 }
 
-export async function sendArticle(ctx: BotContext, db: DatabaseSync, slug: string, backAction?: string): Promise<void> {
+export async function sendArticle(ctx: BotContext, db: Database.Database, slug: string, backAction?: string): Promise<void> {
   const loc = t(ctx.userLanguage);
   const article = getArticleBySlug(ctx.userLanguage, slug);
 
@@ -58,7 +58,7 @@ export async function sendArticle(ctx: BotContext, db: DatabaseSync, slug: strin
   }
 }
 
-function buildArticleKeyboard(ctx: BotContext, db: DatabaseSync, slug: string, backAction = 'cats') {
+function buildArticleKeyboard(ctx: BotContext, db: Database.Database, slug: string, backAction = 'cats') {
   const loc = t(ctx.userLanguage);
   const faved = isFavorite(db, ctx.dbUserId, slug, ctx.userLanguage);
   return Markup.inlineKeyboard([

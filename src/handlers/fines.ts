@@ -1,11 +1,11 @@
 import { Telegraf, Markup } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { t } from '../locales';
 import { getFinesArticles } from '../services/content';
 import { trackEvent } from '../analytics/tracker';
 
-export function registerFinesHandler(bot: Telegraf<BotContext>, db: DatabaseSync): void {
+export function registerFinesHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
     '⚖️ Fines', '⚖️ Mandaty', '⚖️ Штрафи', '⚖️ Штрафы',
   ], async (ctx) => {

@@ -1,9 +1,9 @@
 import { MiddlewareFn } from 'telegraf';
-import { DatabaseSync } from 'node:sqlite';
+import Database from 'better-sqlite3';
 import { BotContext } from '../types';
 import { getOrCreateUser } from '../services/user';
 
-export function userMiddleware(db: DatabaseSync): MiddlewareFn<BotContext> {
+export function userMiddleware(db: Database.Database): MiddlewareFn<BotContext> {
   return async (ctx, next) => {
     if (ctx.from) {
       const user = getOrCreateUser(db, ctx.from.id, ctx.from.username ?? null);
