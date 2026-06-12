@@ -1,0 +1,43 @@
+{
+  "id": "005",
+  "slug": "smoking-public",
+  "language": "en",
+  "category": "fines",
+  "title": "Smoking in public places",
+  "keywords": ["smoking", "cigarette", "vaping", "e-cigarette", "ban", "public"],
+  "question": "Where is smoking prohibited in Poland?",
+  "short_answer": "Smoking is banned indoors and in many public outdoor spaces.",
+  "images": [],
+  "conditions": [
+    "Banned in all indoor public spaces (restaurants, bars, offices, shops)",
+    "Banned in public transport (buses, trams, trains, stations)",
+    "Banned in parks designated as smoke-free zones",
+    "Banned near playgrounds and schools (at least 10m)",
+    "Banned in healthcare facilities and hospitals",
+    "Smoking allowed in designated smoking areas"
+  ],
+  "exceptions": [
+    "Designated outdoor smoking areas",
+    "Private homes and property",
+    "Some outdoor terraces (if not enclosed)"
+  ],
+  "penalties": [
+    "Fine: 500 PLN for smoking in prohibited areas",
+    "Business owners face fines of 2000 PLN for allowing smoking on premises"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zdrowia przed następstwami używania tytoniu",
+      "article": "Art. 5"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zdrowia – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961350606"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

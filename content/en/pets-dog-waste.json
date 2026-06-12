@@ -1,0 +1,39 @@
+{
+  "id": "018",
+  "slug": "pets-dog-waste",
+  "language": "en",
+  "category": "pets",
+  "title": "Cleaning up after your dog",
+  "keywords": ["dog waste", "poop", "excrement", "pick up", "park", "fine", "kupy"],
+  "question": "Am I obligated to clean up after my dog in Poland?",
+  "short_answer": "Yes. Dog owners must clean up their dog's waste in public spaces.",
+  "images": [],
+  "conditions": [
+    "Owners must immediately remove their dog's faeces from public spaces",
+    "Bags are often available at dispensers in parks",
+    "Waste must be disposed of in designated bins (pojemnik na psie odchody)",
+    "Municipal regulations apply in all cities"
+  ],
+  "exceptions": [
+    "Guide dogs (psy przewodniki) may have exemptions in some regulations"
+  ],
+  "penalties": [
+    "Fine: 50–500 PLN for failing to clean up after your dog",
+    "Enforcement by municipal police (straż miejska)"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o utrzymaniu czystości i porządku w gminach",
+      "article": "Art. 4"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o utrzymaniu czystości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960320141"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "008",
+  "slug": "public-transport-ticket",
+  "language": "pl",
+  "category": "transport",
+  "title": "Bilety komunikacji miejskiej",
+  "keywords": ["autobus", "tramwaj", "metro", "bilet", "kontroler", "mandat", "kasownik"],
+  "question": "Co grozi za jazdę bez biletu w komunikacji miejskiej?",
+  "short_answer": "Otrzymasz mandat. Zawsze kasuj bilet natychmiast po wejściu do pojazdu.",
+  "images": [],
+  "conditions": [
+    "Bilety muszą być skasowane na początku każdej podróży",
+    "Kontrolerzy regularnie sprawdzają bilety",
+    "Bilety jednorazowe muszą być skasowane w pojeździe",
+    "Bilety miesięczne/okresowe muszą być zarejestrowane na dane osoby",
+    "Okazuj bilet na żądanie kontrolera"
+  ],
+  "exceptions": [
+    "Dzieci do lat 4 podróżują bezpłatnie w większości sieci miejskich",
+    "Osoby niepełnosprawne z ważną legitymacją często podróżują bezpłatnie",
+    "Seniorzy (60+/65+) często mają bezpłatne lub ulgowe przejazdy"
+  ],
+  "penalties": [
+    "Mandat: 150–600 PLN w zależności od miasta za jazdę bez ważnego biletu",
+    "Obniżony mandat przy zapłacie na miejscu (w pojeździe)",
+    "Wyższy mandat przy zapłacie później (w ciągu 7 dni)"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo przewozowe",
+      "article": "Art. 33a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo przewozowe – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840530272"
+    }
+  ],
+  "updated_at": "2024-02-15",
+  "status": "published"
+}

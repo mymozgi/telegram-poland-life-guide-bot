@@ -1,0 +1,42 @@
+{
+  "id": "004",
+  "slug": "noise-night",
+  "language": "en",
+  "category": "housing",
+  "title": "Noise restrictions at night",
+  "keywords": ["noise", "quiet hours", "night", "neighbour", "music", "party", "cisza nocna"],
+  "question": "What are the quiet hours in Poland and what noise is allowed at night?",
+  "short_answer": "Quiet hours are typically 22:00–6:00. Loud noise during this time is prohibited.",
+  "images": [],
+  "conditions": [
+    "Standard quiet hours: 22:00 to 6:00 (local municipalities may set different times)",
+    "During quiet hours, noise must not disturb neighbours",
+    "This applies to music, parties, renovation work, and loud conversations",
+    "Renovation works are typically allowed only 8:00–20:00 on weekdays"
+  ],
+  "exceptions": [
+    "Public events with permits may exceed noise limits",
+    "Emergency work (water pipe breaks, etc.) is permitted at any time",
+    "New Year's Eve — local municipalities often extend noise permissions"
+  ],
+  "penalties": [
+    "Fine: 20–5000 PLN for disturbing the peace",
+    "Police may be called by neighbours",
+    "Repeated violations can lead to eviction proceedings"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 51"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kodeks wykroczeń – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120114"
+    }
+  ],
+  "updated_at": "2024-01-20",
+  "status": "published"
+}

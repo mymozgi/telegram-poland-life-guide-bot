@@ -1,0 +1,42 @@
+{
+  "id": "007",
+  "slug": "cycling-rules",
+  "language": "en",
+  "category": "transport",
+  "title": "Cycling rules in Poland",
+  "keywords": ["bicycle", "cycling", "bike", "helmet", "cycle path", "rules"],
+  "question": "What are the main rules for cyclists in Poland?",
+  "short_answer": "Cyclists must use bike lanes where available, obey traffic rules, and have lights at night.",
+  "images": [],
+  "conditions": [
+    "Must use designated cycle paths (droga dla rowerów) where available",
+    "May ride on the road if no cycle path exists",
+    "Lights are mandatory from dusk to dawn (front white, rear red)",
+    "May ride on pavements only if a sign permits it or with a child under 10",
+    "Cyclists under 18 must wear a helmet"
+  ],
+  "exceptions": [
+    "Adults are not required by law to wear helmets (but it is recommended)",
+    "Children under 10 may ride on pavements under adult supervision"
+  ],
+  "penalties": [
+    "Fine: 50–300 PLN for cycling on pavement without permission",
+    "Fine: 50–300 PLN for riding without lights at night",
+    "Fine: 200–500 PLN for cycling under the influence of alcohol"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 33"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-10",
+  "status": "published"
+}

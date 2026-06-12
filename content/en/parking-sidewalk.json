@@ -1,0 +1,41 @@
+{
+  "id": "001",
+  "slug": "parking-sidewalk",
+  "language": "en",
+  "category": "transport",
+  "title": "Parking on the sidewalk",
+  "keywords": ["parking", "sidewalk", "pavement", "car", "fine"],
+  "question": "Can I park my car on the sidewalk in Poland?",
+  "short_answer": "Sometimes allowed, but only under strict conditions.",
+  "images": [],
+  "conditions": [
+    "A minimum 1.5 m walkway must remain clear for pedestrians",
+    "Vehicle must weigh no more than 2.5 tonnes",
+    "Allowed only in zones marked with sign P-20 or D-18a",
+    "Parking must be parallel to the road"
+  ],
+  "exceptions": [
+    "Emergency vehicles may always park on sidewalks",
+    "Vehicles with disabled parking permit (karta parkingowa) may park on sidewalks"
+  ],
+  "penalties": [
+    "Fine: 100 PLN for illegal sidewalk parking",
+    "Vehicle may be towed at owner's expense",
+    "Towing cost: 500–700 PLN depending on city"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 49"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "019",
+  "slug": "work-permit",
+  "language": "en",
+  "category": "work",
+  "title": "Work permit for foreigners",
+  "keywords": ["work permit", "zezwolenie na pracę", "employment", "foreigner", "migrant", "visa"],
+  "question": "Do I need a work permit to work in Poland as a foreigner?",
+  "short_answer": "Depends on your nationality. EU/EEA citizens work freely. Non-EU citizens usually need a permit.",
+  "images": [],
+  "conditions": [
+    "EU/EEA citizens: no work permit required, may work freely",
+    "Ukrainian citizens: temporary protection holders may work without a permit",
+    "Other non-EU: work permit (zezwolenie na pracę) required",
+    "Permit types: A, B, C, D, E, S (seasonal) — depends on job type and duration",
+    "Work permit type A is most common — employer applies on behalf of employee",
+    "Must have a valid visa or residence permit that allows work"
+  ],
+  "exceptions": [
+    "Diplomatic staff and their families",
+    "Students on internships (specific limits apply)",
+    "Persons with long-term residence permit (zezwolenie na pobyt stały)"
+  ],
+  "penalties": [
+    "Employee: fine 20–5000 PLN for working without proper permit",
+    "Employer: fine 1000–50000 PLN for employing illegal workers",
+    "Deportation possible for repeated or serious violations"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o promocji zatrudnienia i instytucjach rynku pracy",
+      "article": "Art. 87"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zezwolenie na pracę – gov.pl",
+      "url": "https://www.gov.pl/web/praca/zezwolenie-na-prace"
+    }
+  ],
+  "updated_at": "2024-03-01",
+  "status": "published"
+}

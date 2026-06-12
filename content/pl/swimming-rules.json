@@ -1,0 +1,40 @@
+{
+  "id": "014",
+  "slug": "swimming-rules",
+  "language": "pl",
+  "category": "nature",
+  "title": "Kąpiel w rzekach i jeziorach",
+  "keywords": ["kąpiel", "pływanie", "rzeka", "jezioro", "kąpielisko", "zakaz", "woda"],
+  "question": "Czy można kąpać się w rzekach i jeziorach w Polsce?",
+  "short_answer": "Bezpiecznie kąpać się można tylko w wyznaczonych kąpieliskach. Inne miejsca niosą ryzyko.",
+  "images": [],
+  "conditions": [
+    "Wyznaczone kąpieliska są badane pod kątem jakości wody i mają ratowników",
+    "Kąpiel poza wyznaczonymi kąpieliskami nie jest zakazana przez prawo krajowe, ale może być zakazana lokalnie",
+    "Zwróć uwagę na znaki ostrzegawcze (ZAKAZ KĄPIELI)",
+    "Zakwity sinic (alg) okresowo zamykają plaże — sprawdź informacje lokalnych władz"
+  ],
+  "exceptions": [
+    "Niektóre gminy zezwalają na kąpiel w rzekach w wyznaczonych miejscach bez statusu oficjalnego kąpieliska",
+    "Dzikie pływanie jest popularne w wielu miejscach – zawsze sprawdzaj lokalne oznaczenia"
+  ],
+  "penalties": [
+    "Mandat: do 500 PLN za kąpiel w wyznaczonej strefie zakazu",
+    "Ignorowanie ostrzeżenia ratownika może skutkować wezwaniem policji"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo wodne",
+      "article": "Art. 34"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SANEPID – Jakość wód kąpielowych",
+      "url": "https://www.gov.pl/web/gis/kapieliska"
+    }
+  ],
+  "updated_at": "2024-03-10",
+  "status": "published"
+}

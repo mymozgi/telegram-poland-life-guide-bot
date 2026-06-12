@@ -1,0 +1,41 @@
+{
+  "id": "006",
+  "slug": "alcohol-public",
+  "language": "pl",
+  "category": "fines",
+  "title": "Spożywanie alkoholu w miejscach publicznych",
+  "keywords": ["alkohol", "picie", "piwo", "publiczne", "ulica", "park", "zakaz"],
+  "question": "Czy można pić alkohol w parku lub na ulicy w Polsce?",
+  "short_answer": "Generalnie zakazane w miejscach publicznych, chyba że gmina na to zezwala.",
+  "images": [],
+  "conditions": [
+    "Zakazane w większości miejsc publicznych: ulice, place, parki, place zabaw",
+    "Niektóre miasta mają wyznaczone strefy, gdzie spożywanie alkoholu jest dozwolone",
+    "Licencjonowane ogródki i bary zewnętrzne są wyjątkiem",
+    "Warszawa, Kraków i inne miasta mają szczegółowe przepisy lokalne"
+  ],
+  "exceptions": [
+    "Licencjonowane tarasy i ogrody piwne",
+    "Wyznaczone strefy spożywania alkoholu",
+    "Prywatne imprezy na zamkniętej prywatnej posesji"
+  ],
+  "penalties": [
+    "Mandat: 100 PLN za spożywanie alkoholu w zakazanym miejscu publicznym",
+    "Policja może skonfiskować alkohol"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o wychowaniu w trzeźwości",
+      "article": "Art. 14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o wychowaniu w trzeźwości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820350230"
+    }
+  ],
+  "updated_at": "2024-02-01",
+  "status": "published"
+}

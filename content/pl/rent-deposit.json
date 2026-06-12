@@ -1,0 +1,41 @@
+{
+  "id": "009",
+  "slug": "rent-deposit",
+  "language": "pl",
+  "category": "housing",
+  "title": "Kaucja przy wynajmie mieszkania",
+  "keywords": ["kaucja", "wynajem", "mieszkanie", "wynajmujący", "najemca", "zwrot"],
+  "question": "Jaką kaucję może pobrać wynajmujący i kiedy musi ją zwrócić?",
+  "short_answer": "Kaucja nie może przekraczać 3 miesięcznych czynszów i musi być zwrócona w ciągu 30 dni od opuszczenia lokalu.",
+  "images": [],
+  "conditions": [
+    "Maksymalna kaucja: 3 miesiące czynszu",
+    "Musi być zwrócona w ciągu 30 dni po opuszczeniu lokalu przez najemcę",
+    "Wynajmujący może potrącić koszty naprawy szkód ponad normalny stopień zużycia",
+    "Potrącenia muszą być udokumentowane rachunkami",
+    "Kwota kaucji i warunki zwrotu muszą być określone w umowie najmu"
+  ],
+  "exceptions": [
+    "Mieszkania komunalne mogą mieć inne zasady",
+    "Akademiki studenckie podlegają odrębnym przepisom"
+  ],
+  "penalties": [
+    "Wynajmujący, który nie zwraca kaucji, może być pozwany w sądzie cywilnym",
+    "Sąd może nakazać zwrot kaucji wraz z odsetkami i kosztami sądowymi"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie praw lokatorów",
+      "article": "Art. 6"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie praw lokatorów – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710733"
+    }
+  ],
+  "updated_at": "2024-01-25",
+  "status": "published"
+}

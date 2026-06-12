@@ -1,0 +1,38 @@
+{
+  "id": "002",
+  "slug": "parking-disabled",
+  "language": "pl",
+  "category": "transport",
+  "title": "Parkowanie na miejscu dla niepełnosprawnych",
+  "keywords": ["parkowanie", "niepełnosprawni", "karta parkingowa", "mandat"],
+  "question": "Czy mogę parkować na miejscu dla niepełnosprawnych bez karty parkingowej?",
+  "short_answer": "Nie. Miejsca dla niepełnosprawnych są zastrzeżone wyłącznie dla osób z ważną kartą parkingową.",
+  "images": [],
+  "conditions": [
+    "Tylko pojazdy z ważną kartą parkingową mogą korzystać z tych miejsc",
+    "Karta musi być wyraźnie widoczna na desce rozdzielczej",
+    "Unijne karty parkingowe z innych krajów są ważne w Polsce"
+  ],
+  "exceptions": [
+    "Pojazdy ratownicze podczas akcji ratowniczych"
+  ],
+  "penalties": [
+    "Mandat: 800 PLN za parkowanie na miejscu dla niepełnosprawnych bez ważnej karty",
+    "Pojazd może zostać natychmiast odholowany"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 49 §1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

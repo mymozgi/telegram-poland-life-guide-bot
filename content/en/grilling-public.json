@@ -1,0 +1,42 @@
+{
+  "id": "003",
+  "slug": "grilling-public",
+  "language": "en",
+  "category": "nature",
+  "title": "Grilling in public places",
+  "keywords": ["grilling", "barbecue", "BBQ", "park", "outdoor", "fire", "grill"],
+  "question": "Can I grill or make a barbecue in a public park in Poland?",
+  "short_answer": "Generally prohibited in public parks unless in designated areas.",
+  "images": [],
+  "conditions": [
+    "Grilling is allowed only in designated zones marked with barbecue signs",
+    "Some parks have dedicated grilling areas with permanent grills",
+    "On private land, grilling is generally permitted with neighbour consideration",
+    "Use of portable gas/charcoal grills may be allowed in some recreation areas"
+  ],
+  "exceptions": [
+    "Designated barbecue zones in parks and recreation areas",
+    "Camping sites with grilling permissions",
+    "Private gardens and yards"
+  ],
+  "penalties": [
+    "Fine: up to 500 PLN for unsanctioned open fire in public spaces",
+    "Fine: up to 5000 PLN for starting a fire in a forest",
+    "Additional liability for any damage caused by fire"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie przyrody",
+      "article": "Art. 151"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie przyrody",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920880"
+    }
+  ],
+  "updated_at": "2024-02-10",
+  "status": "published"
+}

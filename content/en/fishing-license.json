@@ -1,0 +1,42 @@
+{
+  "id": "013",
+  "slug": "fishing-license",
+  "language": "en",
+  "category": "nature",
+  "title": "Fishing license requirements",
+  "keywords": ["fishing", "fish", "license", "permit", "wędkowanie", "river", "lake"],
+  "question": "Do I need a license to fish in Poland?",
+  "short_answer": "Yes. Fishing requires a state fishing license and often a club permit.",
+  "images": [],
+  "conditions": [
+    "State fishing license (karta wędkarska) required — obtained from Polish Angling Association (PZW)",
+    "Additional zezwolenie (permit) needed for specific waters managed by angling clubs",
+    "Season tickets may be required for certain lakes and rivers",
+    "Catch limits and size restrictions apply to specific species",
+    "Closed seasons (ochrona) exist for many fish species (e.g. pike, perch)"
+  ],
+  "exceptions": [
+    "Children under 14 may fish without a license when accompanied by a licensed adult",
+    "Some tourist areas offer day licenses for visitors"
+  ],
+  "penalties": [
+    "Fine: 500–5000 PLN for fishing without a license",
+    "Fine: up to 5000 PLN for fishing in a protected zone",
+    "Equipment may be confiscated"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o rybactwie śródlądowym",
+      "article": "Art. 7"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Polski Związek Wędkarski (PZW)",
+      "url": "https://www.pzw.org.pl"
+    }
+  ],
+  "updated_at": "2024-03-01",
+  "status": "published"
+}

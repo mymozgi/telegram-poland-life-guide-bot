@@ -1,0 +1,47 @@
+{
+  "id": "011",
+  "slug": "shopping-returns",
+  "language": "en",
+  "category": "shopping",
+  "title": "Shopping returns and refunds",
+  "keywords": ["return", "refund", "shop", "store", "receipt", "consumer", "rights", "zwrot"],
+  "question": "Can I return a product and get a refund in Poland?",
+  "short_answer": "Statutory 14-day return right for online purchases. Physical stores set their own policies.",
+  "images": [],
+  "conditions": [
+    "Online/distance purchases: 14-day unconditional return right (prawo odstąpienia)",
+    "Physical stores: return policy is set by the shop (check their terms)",
+    "Defective goods: 2-year warranty (rękojmia) applies to all purchases",
+    "With receipt: return/exchange usually easier, but not always required",
+    "Item must be in original condition for standard return"
+  ],
+  "exceptions": [
+    "Online: custom-made or personalised items cannot be returned",
+    "Online: digital content once downloaded cannot be returned",
+    "Online: perishable goods cannot be returned",
+    "Sale items in physical stores may have no return policy"
+  ],
+  "penalties": [
+    "Sellers who refuse valid returns face fines from the trade inspectorate (UOKiK)",
+    "Consumer can file complaint with UOKiK or mediator"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o prawach konsumenta",
+      "article": "Art. 27"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o prawach konsumenta – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000827"
+    },
+    {
+      "title": "UOKiK – Prawa konsumenta",
+      "url": "https://www.uokik.gov.pl/prawa_konsumenta.php"
+    }
+  ],
+  "updated_at": "2024-01-30",
+  "status": "published"
+}

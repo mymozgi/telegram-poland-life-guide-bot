@@ -1,0 +1,39 @@
+{
+  "id": "012",
+  "slug": "bank-account",
+  "language": "pl",
+  "category": "banks",
+  "title": "Konto bankowe dla cudzoziemca",
+  "keywords": ["konto bankowe", "cudzoziemiec", "PESEL", "paszport", "bank"],
+  "question": "Czy cudzoziemiec może otworzyć konto bankowe w Polsce bez numeru PESEL?",
+  "short_answer": "Tak. Większość banków umożliwia otwarcie konta z paszportem i zezwoleniem na pobyt.",
+  "images": [],
+  "conditions": [
+    "Wymagany ważny paszport lub dowód osobisty",
+    "Karta pobytu lub zaświadczenie o zameldowaniu są pomocne",
+    "Niektóre banki wymagają numeru PESEL — złóż wniosek w urzędzie gminy",
+    "Wymagany adres w Polsce",
+    "Niektóre banki oferują konta dla cudzoziemców bez PESEL (np. PKO BP, Santander, mBank, ING)"
+  ],
+  "exceptions": [
+    "Obywatele UE mogą otwierać konta z dowodem UE",
+    "Obywatele Ukrainy mogą otwierać konta z ukraińskim paszportem (od 2022)",
+    "Aplikacje fintech (Revolut, Wise) nie wymagają PESEL"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo bankowe",
+      "article": "Art. 49"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Komisja Nadzoru Finansowego (KNF)",
+      "url": "https://www.knf.gov.pl"
+    }
+  ],
+  "updated_at": "2024-02-20",
+  "status": "published"
+}

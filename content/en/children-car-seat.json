@@ -1,0 +1,41 @@
+{
+  "id": "016",
+  "slug": "children-car-seat",
+  "language": "en",
+  "category": "children",
+  "title": "Child car seat requirements",
+  "keywords": ["car seat", "child", "safety seat", "fotelik", "seatbelt", "driving"],
+  "question": "When is a child car seat required in Poland?",
+  "short_answer": "Children under 150 cm must use an approved child restraint system (fotelik).",
+  "images": [],
+  "conditions": [
+    "Children under 150 cm must use an approved child restraint system",
+    "Car seat must be approved to ECE R44 or R129 (i-Size) standard",
+    "Rear-facing seats recommended for children up to 4 years",
+    "Child under 150 cm cannot sit in the front passenger seat if the airbag is active",
+    "If the car has no back seat, child may sit in front with airbag deactivated"
+  ],
+  "exceptions": [
+    "Taxis: children may travel without a car seat on short journeys (under local regulations)",
+    "Emergency medical transport: different rules apply"
+  ],
+  "penalties": [
+    "Fine: 150 PLN for transporting a child without a proper car seat",
+    "Points on driver's licence: 6 points"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 39"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-02-01",
+  "status": "published"
+}

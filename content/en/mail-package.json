@@ -1,0 +1,46 @@
+{
+  "id": "020",
+  "slug": "mail-package",
+  "language": "en",
+  "category": "mail",
+  "title": "Receiving packages and mail in Poland",
+  "keywords": ["mail", "package", "parcel", "Poczta Polska", "courier", "customs", "delivery"],
+  "question": "How do I receive packages in Poland and what are the customs rules?",
+  "short_answer": "Packages from within the EU arrive without customs duties. From outside EU, customs may apply.",
+  "images": [],
+  "conditions": [
+    "Within EU: no customs duties, standard delivery to address or parcel locker (paczkomat)",
+    "From outside EU: packages over €150 may require customs clearance",
+    "Gifts from outside EU: duty-free up to €45",
+    "Commercial goods from outside EU: VAT applies from €0, customs duty from €150",
+    "Recipient must show ID to pick up registered mail and parcels",
+    "Poczta Polska leaves pickup notices when delivery fails"
+  ],
+  "exceptions": [
+    "Personal items sent by family from outside EU may have reduced duties",
+    "Diplomatic mail is exempt from customs"
+  ],
+  "penalties": [
+    "Undeclared commercial goods from outside EU may be seized",
+    "False customs declarations: fines and confiscation"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo celne",
+      "article": "Art. 1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Poczta Polska",
+      "url": "https://www.poczta-polska.pl"
+    },
+    {
+      "title": "Krajowa Administracja Skarbowa – Cło",
+      "url": "https://www.gov.pl/web/kas/clo"
+    }
+  ],
+  "updated_at": "2024-02-25",
+  "status": "published"
+}

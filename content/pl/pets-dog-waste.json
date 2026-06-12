@@ -1,0 +1,39 @@
+{
+  "id": "018",
+  "slug": "pets-dog-waste",
+  "language": "pl",
+  "category": "pets",
+  "title": "Sprzątanie po psie",
+  "keywords": ["pies", "odchody", "sprzątanie", "park", "mandat", "straż miejska"],
+  "question": "Czy właściciel psa musi sprzątać po nim w Polsce?",
+  "short_answer": "Tak. Właściciele psów muszą natychmiast usuwać odchody zwierząt z miejsc publicznych.",
+  "images": [],
+  "conditions": [
+    "Właściciele muszą natychmiast usuwać odchody psa z miejsc publicznych",
+    "Woreczki na odchody często dostępne są przy dozownikach w parkach",
+    "Odchody należy wyrzucać do wyznaczonych pojemników",
+    "Przepisy gminne obowiązują we wszystkich miastach"
+  ],
+  "exceptions": [
+    "Psy przewodniki mogą mieć wyjątki w niektórych przepisach"
+  ],
+  "penalties": [
+    "Mandat: 50–500 PLN za niesprzątanie po psie",
+    "Egzekwowanie przez straż miejską"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o utrzymaniu czystości i porządku w gminach",
+      "article": "Art. 4"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o utrzymaniu czystości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960320141"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

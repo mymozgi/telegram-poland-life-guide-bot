@@ -1,0 +1,42 @@
+{
+  "id": "003",
+  "slug": "grilling-public",
+  "language": "pl",
+  "category": "nature",
+  "title": "Grillowanie w miejscach publicznych",
+  "keywords": ["grillowanie", "grill", "park", "ognisko", "zakaz", "plener"],
+  "question": "Czy można grillować w publicznym parku w Polsce?",
+  "short_answer": "Generalnie zakazane w parkach publicznych, chyba że w wyznaczonych strefach.",
+  "images": [],
+  "conditions": [
+    "Grillowanie dozwolone tylko w wyznaczonych strefach oznaczonych tablicami",
+    "Niektóre parki mają dedykowane miejsca do grillowania ze stałymi rusztami",
+    "Na prywatnych posesjach grillowanie jest generalnie dozwolone z poszanowaniem sąsiadów",
+    "Przenośne grille gazowe/węglowe mogą być dozwolone na niektórych terenach rekreacyjnych"
+  ],
+  "exceptions": [
+    "Wyznaczone strefy do grillowania w parkach i terenach rekreacyjnych",
+    "Kempingi z pozwoleniem na grillowanie",
+    "Prywatne ogrody i posesje"
+  ],
+  "penalties": [
+    "Mandat: do 500 PLN za nielegalne rozpalenie ognia w miejscu publicznym",
+    "Mandat: do 5000 PLN za rozpalenie ognia w lesie",
+    "Dodatkowa odpowiedzialność cywilna za szkody spowodowane pożarem"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie przyrody",
+      "article": "Art. 151"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie przyrody",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920880"
+    }
+  ],
+  "updated_at": "2024-02-10",
+  "status": "published"
+}

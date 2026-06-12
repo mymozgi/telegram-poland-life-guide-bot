@@ -1,0 +1,42 @@
+{
+  "id": "013",
+  "slug": "fishing-license",
+  "language": "pl",
+  "category": "nature",
+  "title": "Licencja wędkarska",
+  "keywords": ["wędkowanie", "ryby", "karta wędkarska", "PZW", "rzeka", "jezioro"],
+  "question": "Czy potrzebna jest licencja do wędkowania w Polsce?",
+  "short_answer": "Tak. Do wędkowania wymagana jest karta wędkarska i zazwyczaj zezwolenie na dany łowisko.",
+  "images": [],
+  "conditions": [
+    "Karta wędkarska (państwowa) wymagana — wydawana przez Polski Związek Wędkarski (PZW)",
+    "Dodatkowe zezwolenie potrzebne dla konkretnych wód zarządzanych przez koła PZW",
+    "Karty sezonowe mogą być wymagane dla niektórych jezior i rzek",
+    "Obowiązują limity połowów i wymiary ochronne dla poszczególnych gatunków",
+    "Okresy ochronne dotyczą wielu gatunków ryb (np. szczupak, okoń)"
+  ],
+  "exceptions": [
+    "Dzieci do lat 14 mogą wędkować bez karty pod opieką licencjonowanego dorosłego",
+    "Niektóre obszary turystyczne oferują dzienne zezwolenia dla odwiedzających"
+  ],
+  "penalties": [
+    "Mandat: 500–5000 PLN za wędkowanie bez licencji",
+    "Mandat: do 5000 PLN za wędkowanie w strefie chronionej",
+    "Sprzęt może zostać skonfiskowany"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o rybactwie śródlądowym",
+      "article": "Art. 7"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Polski Związek Wędkarski (PZW)",
+      "url": "https://www.pzw.org.pl"
+    }
+  ],
+  "updated_at": "2024-03-01",
+  "status": "published"
+}

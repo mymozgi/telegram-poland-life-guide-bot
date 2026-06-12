@@ -1,0 +1,43 @@
+{
+  "id": "011",
+  "slug": "shopping-returns",
+  "language": "pl",
+  "category": "shopping",
+  "title": "Zwroty i reklamacje w sklepach",
+  "keywords": ["zwrot", "reklamacja", "sklep", "paragon", "prawa konsumenta", "rękojmia"],
+  "question": "Czy można zwrócić towar i dostać zwrot pieniędzy w Polsce?",
+  "short_answer": "Zakupy przez internet: ustawowe 14 dni na zwrot. W sklepach stacjonarnych polityka zależy od sprzedawcy.",
+  "images": [],
+  "conditions": [
+    "Zakupy online/na odległość: 14-dniowe prawo do odstąpienia od umowy bez podania przyczyny",
+    "Sklepy stacjonarne: polityka zwrotów ustalana przez sklep",
+    "Towary wadliwe: 2-letnia rękojmia obowiązuje przy wszystkich zakupach",
+    "Z paragonem: zwrot/wymiana zazwyczaj łatwiejsze",
+    "Towar musi być w oryginalnym stanie przy standardowym zwrocie"
+  ],
+  "exceptions": [
+    "Online: produkty na zamówienie lub personalizowane – brak prawa do zwrotu",
+    "Online: treści cyfrowe po pobraniu – brak prawa do zwrotu",
+    "Online: produkty spożywcze – brak prawa do zwrotu",
+    "Produkty przecenione w sklepach stacjonarnych mogą nie podlegać zwrotowi"
+  ],
+  "penalties": [
+    "Sprzedawcy odmawiający zasadnych zwrotów mogą zostać ukarani przez UOKiK",
+    "Konsument może złożyć skargę do UOKiK lub mediatora"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o prawach konsumenta",
+      "article": "Art. 27"
+    }
+  ],
+  "sources": [
+    {
+      "title": "UOKiK – Prawa konsumenta",
+      "url": "https://www.uokik.gov.pl/prawa_konsumenta.php"
+    }
+  ],
+  "updated_at": "2024-01-30",
+  "status": "published"
+}

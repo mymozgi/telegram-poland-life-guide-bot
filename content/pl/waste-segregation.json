@@ -1,0 +1,44 @@
+{
+  "id": "010",
+  "slug": "waste-segregation",
+  "language": "pl",
+  "category": "housing",
+  "title": "Segregacja odpadów",
+  "keywords": ["segregacja", "odpady", "śmieci", "recykling", "kosze", "pojemniki"],
+  "question": "Jak segregować odpady w Polsce?",
+  "short_answer": "Odpady należy segregować do 5 pojemników oznaczonych kolorami. Brak segregacji grozi wyższymi opłatami.",
+  "images": [],
+  "conditions": [
+    "Żółty pojemnik – plastik, metal, opakowania",
+    "Niebieski pojemnik – papier i tektura",
+    "Zielony pojemnik – szkło",
+    "Brązowy pojemnik – bioodpady, resztki jedzenia",
+    "Czarny/szary pojemnik – odpady zmieszane",
+    "Gabaryty i odpady niebezpieczne: oddaj do PSZOK"
+  ],
+  "exceptions": [
+    "Leki: zwróć do apteki",
+    "Baterie: wrzuć do specjalnych pojemników w sklepach",
+    "Elektronika: oddaj do PSZOK lub autoryzowanego sklepu",
+    "Gruz budowlany: skontaktuj się z gminą w sprawie odbioru"
+  ],
+  "penalties": [
+    "Gminy mogą naliczyć 2-krotną opłatę za niesegregowane odpady",
+    "Nielegalne wyrzucanie śmieci: mandat 500–5000 PLN"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o utrzymaniu czystości i porządku w gminach",
+      "article": "Art. 5"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o utrzymaniu czystości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960320141"
+    }
+  ],
+  "updated_at": "2024-02-05",
+  "status": "published"
+}

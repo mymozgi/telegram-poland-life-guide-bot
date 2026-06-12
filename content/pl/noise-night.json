@@ -1,0 +1,42 @@
+{
+  "id": "004",
+  "slug": "noise-night",
+  "language": "pl",
+  "category": "housing",
+  "title": "Cisza nocna",
+  "keywords": ["cisza nocna", "hałas", "noc", "sąsiad", "muzyka", "impreza"],
+  "question": "Jakie są godziny ciszy nocnej w Polsce i jaki hałas jest dozwolony?",
+  "short_answer": "Cisza nocna obowiązuje zazwyczaj od 22:00 do 6:00. Głośne dźwięki w tym czasie są zakazane.",
+  "images": [],
+  "conditions": [
+    "Standardowe godziny ciszy nocnej: 22:00–6:00 (gminy mogą ustalić inne godziny)",
+    "W czasie ciszy nocnej hałas nie może zakłócać spokoju sąsiadów",
+    "Dotyczy muzyki, imprez, prac remontowych i głośnych rozmów",
+    "Prace remontowe dozwolone zazwyczaj tylko w godzinach 8:00–20:00 w dni robocze"
+  ],
+  "exceptions": [
+    "Imprezy publiczne z pozwoleniami mogą przekraczać limity hałasu",
+    "Prace awaryjne (awaria wodna itp.) są dozwolone o każdej porze",
+    "Sylwester — gminy często rozszerzają dozwolone godziny hałasu"
+  ],
+  "penalties": [
+    "Mandat: 20–5000 PLN za zakłócanie ciszy",
+    "Sąsiedzi mogą wezwać policję lub straż miejską",
+    "Powtarzające się naruszenia mogą skutkować postępowaniem eksmisyjnym"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 51"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Kodeks wykroczeń – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120114"
+    }
+  ],
+  "updated_at": "2024-01-20",
+  "status": "published"
+}

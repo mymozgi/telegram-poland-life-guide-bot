@@ -1,0 +1,38 @@
+{
+  "id": "002",
+  "slug": "parking-disabled",
+  "language": "en",
+  "category": "transport",
+  "title": "Parking in disabled spots",
+  "keywords": ["parking", "disabled", "handicap", "blue badge", "karta parkingowa"],
+  "question": "Can I park in a disabled parking spot without a permit?",
+  "short_answer": "No. Disabled spots are strictly reserved for people with valid disability cards.",
+  "images": [],
+  "conditions": [
+    "Only vehicles displaying a valid disability parking card (karta parkingowa) may use these spots",
+    "The card must be clearly visible on the dashboard",
+    "Foreign EU disability cards are also valid in Poland"
+  ],
+  "exceptions": [
+    "Emergency service vehicles during active operations"
+  ],
+  "penalties": [
+    "Fine: 800 PLN for parking in a disabled spot without a valid card",
+    "Vehicle may be towed immediately"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 49 §1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

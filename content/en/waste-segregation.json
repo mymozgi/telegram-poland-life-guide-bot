@@ -1,0 +1,44 @@
+{
+  "id": "010",
+  "slug": "waste-segregation",
+  "language": "en",
+  "category": "housing",
+  "title": "Waste sorting rules",
+  "keywords": ["waste", "rubbish", "recycling", "segregation", "bins", "trash", "garbage"],
+  "question": "How must I sort my waste in Poland?",
+  "short_answer": "Waste must be sorted into 5 colour-coded bins. Failure can result in higher waste fees.",
+  "images": [],
+  "conditions": [
+    "Yellow bin – plastics, metal, packaging (plastik, metal)",
+    "Blue bin – paper and cardboard (papier)",
+    "Green bin – glass (szkło)",
+    "Brown bin – bio waste, food scraps (bioodpady)",
+    "Black/grey bin – mixed/residual waste (zmieszane)",
+    "Large/hazardous items: take to PSZOK recycling centre"
+  ],
+  "exceptions": [
+    "Medicines: return to pharmacy",
+    "Batteries: drop in designated collection boxes in shops",
+    "Electronics: take to PSZOK or authorised shop",
+    "Building debris: contact municipality for collection"
+  ],
+  "penalties": [
+    "Municipalities can charge 2x the standard waste fee for unsorted waste",
+    "Dumping waste illegally: fine 500–5000 PLN"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o utrzymaniu czystości i porządku w gminach",
+      "article": "Art. 5"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o utrzymaniu czystości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19960320141"
+    }
+  ],
+  "updated_at": "2024-02-05",
+  "status": "published"
+}

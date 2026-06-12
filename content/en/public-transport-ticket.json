@@ -1,0 +1,43 @@
+{
+  "id": "008",
+  "slug": "public-transport-ticket",
+  "language": "en",
+  "category": "transport",
+  "title": "Public transport tickets",
+  "keywords": ["bus", "tram", "metro", "ticket", "fare", "inspector", "fine", "validate"],
+  "question": "What happens if I travel on public transport without a ticket in Poland?",
+  "short_answer": "You will receive a fine. Always validate your ticket immediately after boarding.",
+  "images": [],
+  "conditions": [
+    "Tickets must be validated (stempel) at the beginning of each journey",
+    "Ticket inspectors (kontrolerzy) check tickets regularly",
+    "Single-use tickets must be validated within the vehicle",
+    "Monthly/period passes must be registered to your name",
+    "Show your ticket when asked by an inspector"
+  ],
+  "exceptions": [
+    "Children under 4 travel free on most city networks",
+    "Disabled persons with valid ID may travel free in many cities",
+    "Senior citizens (60+/65+) often have free or reduced travel"
+  ],
+  "penalties": [
+    "Fine: 150–600 PLN depending on the city for travelling without a valid ticket",
+    "Reduced fine if paid on the spot (within the vehicle)",
+    "Higher fine if paid later (within 7 days)"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo przewozowe",
+      "article": "Art. 33a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo przewozowe – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19840530272"
+    }
+  ],
+  "updated_at": "2024-02-15",
+  "status": "published"
+}

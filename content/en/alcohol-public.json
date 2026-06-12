@@ -1,0 +1,41 @@
+{
+  "id": "006",
+  "slug": "alcohol-public",
+  "language": "en",
+  "category": "fines",
+  "title": "Drinking alcohol in public",
+  "keywords": ["alcohol", "drinking", "beer", "public", "street", "park", "ban"],
+  "question": "Can I drink alcohol in a park or on the street in Poland?",
+  "short_answer": "Generally prohibited in public spaces unless the municipality allows it.",
+  "images": [],
+  "conditions": [
+    "Prohibited in most public spaces: streets, squares, parks, playgrounds",
+    "Some cities have designated areas where public drinking is permitted",
+    "Licensed outdoor cafes and beer gardens are exceptions",
+    "Warsaw, Kraków, and other cities have specific local regulations"
+  ],
+  "exceptions": [
+    "Licensed outdoor terraces and beer gardens",
+    "Designated alcohol consumption zones (strefy picia alkoholu)",
+    "Private events on enclosed private property"
+  ],
+  "penalties": [
+    "Fine: 100 PLN for drinking in a prohibited public space",
+    "Police may confiscate the alcohol"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o wychowaniu w trzeźwości",
+      "article": "Art. 14"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o wychowaniu w trzeźwości – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19820350230"
+    }
+  ],
+  "updated_at": "2024-02-01",
+  "status": "published"
+}

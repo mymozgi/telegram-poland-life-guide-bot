@@ -1,0 +1,41 @@
+{
+  "id": "015",
+  "slug": "children-school",
+  "language": "en",
+  "category": "children",
+  "title": "School attendance obligation",
+  "keywords": ["school", "education", "children", "obligation", "compulsory", "obowiązek szkolny"],
+  "question": "Is school attendance compulsory for children in Poland?",
+  "short_answer": "Yes. School attendance is compulsory from age 6 (preschool) to 18.",
+  "images": [],
+  "conditions": [
+    "Age 6: compulsory preschool year (roczne przygotowanie przedszkolne)",
+    "Age 7–15: compulsory primary school (szkoła podstawowa, 8 years)",
+    "Age 15–18: compulsory secondary education (szkoła ponadpodstawowa)",
+    "Foreign children residing in Poland are also subject to compulsory schooling",
+    "Enrolment must be at the school in the child's residential district (rejon)"
+  ],
+  "exceptions": [
+    "Home schooling (edukacja domowa) is permitted with approval from the school director",
+    "Special needs schools available for children with disabilities"
+  ],
+  "penalties": [
+    "Fines up to 5000 PLN for parents whose child repeatedly skips school",
+    "Local authority can impose enforcement measures on parents"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo oświatowe",
+      "article": "Art. 35"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministerstwo Edukacji Narodowej",
+      "url": "https://www.gov.pl/web/edukacja"
+    }
+  ],
+  "updated_at": "2024-01-20",
+  "status": "published"
+}

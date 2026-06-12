@@ -1,0 +1,41 @@
+{
+  "id": "015",
+  "slug": "children-school",
+  "language": "pl",
+  "category": "children",
+  "title": "Obowiązek szkolny",
+  "keywords": ["szkoła", "edukacja", "dzieci", "obowiązek szkolny", "nauka"],
+  "question": "Czy uczęszczanie do szkoły jest obowiązkowe dla dzieci w Polsce?",
+  "short_answer": "Tak. Obowiązek szkolny obowiązuje od 6 roku życia (wychowanie przedszkolne) do 18 lat.",
+  "images": [],
+  "conditions": [
+    "Wiek 6 lat: obowiązkowe roczne przygotowanie przedszkolne",
+    "Wiek 7–15 lat: obowiązkowa szkoła podstawowa (8 lat)",
+    "Wiek 15–18 lat: obowiązkowa szkoła ponadpodstawowa",
+    "Dzieci cudzoziemców zamieszkałych w Polsce także podlegają obowiązkowi szkolnemu",
+    "Zapisy do szkoły w rejonie zamieszkania dziecka"
+  ],
+  "exceptions": [
+    "Edukacja domowa dozwolona za zgodą dyrektora szkoły",
+    "Szkoły specjalne dostępne dla dzieci z niepełnosprawnościami"
+  ],
+  "penalties": [
+    "Grzywna do 5000 PLN dla rodziców, których dziecko systematycznie opuszcza szkołę",
+    "Organ władzy lokalnej może zastosować środki egzekucyjne wobec rodziców"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo oświatowe",
+      "article": "Art. 35"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ministerstwo Edukacji Narodowej",
+      "url": "https://www.gov.pl/web/edukacja"
+    }
+  ],
+  "updated_at": "2024-01-20",
+  "status": "published"
+}

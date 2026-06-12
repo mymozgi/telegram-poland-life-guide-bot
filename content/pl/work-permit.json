@@ -1,0 +1,44 @@
+{
+  "id": "019",
+  "slug": "work-permit",
+  "language": "pl",
+  "category": "work",
+  "title": "Zezwolenie na pracę dla cudzoziemców",
+  "keywords": ["zezwolenie na pracę", "praca", "cudzoziemiec", "migrant", "wiza"],
+  "question": "Czy cudzoziemiec potrzebuje zezwolenia na pracę w Polsce?",
+  "short_answer": "To zależy od obywatelstwa. Obywatele UE/EOG pracują swobodnie. Obywatele spoza UE zazwyczaj potrzebują zezwolenia.",
+  "images": [],
+  "conditions": [
+    "Obywatele UE/EOG: brak wymogu zezwolenia na pracę",
+    "Obywatele Ukrainy z ochroną czasową mogą pracować bez zezwolenia",
+    "Pozostali obywatele spoza UE: wymagane zezwolenie na pracę",
+    "Typy zezwoleń: A, B, C, D, E, S (sezonowe) – zależnie od rodzaju pracy",
+    "Typ A jest najczęstszy – pracodawca składa wniosek w imieniu pracownika",
+    "Wymagana ważna wiza lub zezwolenie na pobyt uprawniające do pracy"
+  ],
+  "exceptions": [
+    "Personel dyplomatyczny i ich rodziny",
+    "Studenci odbywający praktyki (określone limity)",
+    "Osoby z zezwoleniem na pobyt stały"
+  ],
+  "penalties": [
+    "Pracownik: grzywna 20–5000 PLN za pracę bez zezwolenia",
+    "Pracodawca: grzywna 1000–50000 PLN za zatrudnianie nielegalnych pracowników",
+    "Deportacja możliwa przy poważnych lub powtarzających się naruszeniach"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o promocji zatrudnienia i instytucjach rynku pracy",
+      "article": "Art. 87"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Zezwolenie na pracę – gov.pl",
+      "url": "https://www.gov.pl/web/praca/zezwolenie-na-prace"
+    }
+  ],
+  "updated_at": "2024-03-01",
+  "status": "published"
+}

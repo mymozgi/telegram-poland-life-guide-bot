@@ -1,0 +1,41 @@
+{
+  "id": "001",
+  "slug": "parking-sidewalk",
+  "language": "pl",
+  "category": "transport",
+  "title": "Parkowanie na chodniku",
+  "keywords": ["parkowanie", "chodnik", "samochód", "mandat", "P-20"],
+  "question": "Czy można parkować na chodniku w Polsce?",
+  "short_answer": "Czasami tak, ale tylko pod ścisłymi warunkami.",
+  "images": [],
+  "conditions": [
+    "Musi pozostać co najmniej 1,5 m wolnego chodnika dla pieszych",
+    "Pojazd nie może ważyć więcej niż 2,5 tony",
+    "Dozwolone tylko w strefach oznaczonych znakiem P-20 lub D-18a",
+    "Parkowanie musi być równoległe do jezdni"
+  ],
+  "exceptions": [
+    "Pojazdy uprzywilejowane mogą zawsze parkować na chodniku",
+    "Pojazdy z kartą parkingową mogą parkować na chodniku"
+  ],
+  "penalties": [
+    "Mandat: 100 PLN za nielegalne parkowanie na chodniku",
+    "Pojazd może zostać odholowany na koszt właściciela",
+    "Koszt holowania: 500–700 PLN w zależności od miasta"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 49"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

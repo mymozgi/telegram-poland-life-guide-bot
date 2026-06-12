@@ -1,0 +1,40 @@
+{
+  "id": "014",
+  "slug": "swimming-rules",
+  "language": "en",
+  "category": "nature",
+  "title": "Swimming in rivers and lakes",
+  "keywords": ["swimming", "river", "lake", "beach", "kąpielisko", "ban", "water"],
+  "question": "Can I swim in rivers and lakes in Poland?",
+  "short_answer": "Swimming is only officially safe at designated bathing areas (kąpieliska). Other spots carry risks.",
+  "images": [],
+  "conditions": [
+    "Designated bathing areas (kąpieliska) are tested for water quality and have lifeguards",
+    "Swimming outside designated areas is not prohibited by national law but may be banned locally",
+    "Pay attention to warning signs (ZAKAZ KĄPIELI = bathing prohibited)",
+    "Blue-green algae blooms (sinice) periodically close beaches — check local authorities"
+  ],
+  "exceptions": [
+    "Some municipalities allow swimming in rivers in designated spots without official kąpielisko status",
+    "Wild swimming is popular in many areas but always check local signs"
+  ],
+  "penalties": [
+    "Fine: up to 500 PLN for swimming in a designated prohibition zone",
+    "If a lifeguard issues a warning and you ignore it, police may be called"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo wodne",
+      "article": "Art. 34"
+    }
+  ],
+  "sources": [
+    {
+      "title": "SANEPID – Jakość wód kąpielowych",
+      "url": "https://www.gov.pl/web/gis/kapieliska"
+    }
+  ],
+  "updated_at": "2024-03-10",
+  "status": "published"
+}

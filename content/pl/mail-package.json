@@ -1,0 +1,42 @@
+{
+  "id": "020",
+  "slug": "mail-package",
+  "language": "pl",
+  "category": "mail",
+  "title": "Odbiór paczek i przesyłek w Polsce",
+  "keywords": ["paczka", "poczta", "Poczta Polska", "kurier", "cło", "dostawa", "paczkomat"],
+  "question": "Jak odbierać przesyłki w Polsce i jakie są zasady celne?",
+  "short_answer": "Paczki z UE są dostarczane bez opłat celnych. Spoza UE mogą obowiązywać cła.",
+  "images": [],
+  "conditions": [
+    "Wewnątrz UE: bez opłat celnych, standardowa dostawa na adres lub do paczkomatu",
+    "Spoza UE: paczki powyżej 150 EUR mogą wymagać odprawy celnej",
+    "Prezenty spoza UE: zwolnione do wartości 45 EUR",
+    "Towary handlowe spoza UE: VAT naliczany od 0 EUR, cło od 150 EUR",
+    "Odbiorca musi okazać dowód tożsamości przy odbiorze przesyłek poleconych",
+    "Poczta Polska zostawia awizo przy nieudanej dostawie"
+  ],
+  "exceptions": [
+    "Przesyłki osobiste od rodziny spoza UE mogą korzystać z obniżonych stawek celnych",
+    "Poczta dyplomatyczna jest zwolniona z cła"
+  ],
+  "penalties": [
+    "Niezgłoszone towary handlowe spoza UE mogą zostać skonfiskowane",
+    "Fałszywe deklaracje celne: grzywny i konfiskata"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo celne",
+      "article": "Art. 1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Poczta Polska",
+      "url": "https://www.poczta-polska.pl"
+    }
+  ],
+  "updated_at": "2024-02-25",
+  "status": "published"
+}

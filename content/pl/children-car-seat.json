@@ -1,0 +1,41 @@
+{
+  "id": "016",
+  "slug": "children-car-seat",
+  "language": "pl",
+  "category": "children",
+  "title": "Fotelik samochodowy dla dziecka",
+  "keywords": ["fotelik", "dziecko", "samochód", "pas bezpieczeństwa", "przepisy"],
+  "question": "Kiedy wymagany jest fotelik samochodowy dla dziecka w Polsce?",
+  "short_answer": "Dzieci poniżej 150 cm wzrostu muszą korzystać z zatwierdzonego fotelika samochodowego.",
+  "images": [],
+  "conditions": [
+    "Dzieci poniżej 150 cm muszą korzystać z zatwierdzonego fotelika",
+    "Fotelik musi spełniać normy ECE R44 lub R129 (i-Size)",
+    "Foteliki tyłem do kierunku jazdy zalecane dla dzieci do 4 lat",
+    "Dziecko poniżej 150 cm nie może siedzieć na przednim fotelu z aktywną poduszką powietrzną",
+    "Jeśli auto nie ma tylnego siedzenia, dziecko może siedzieć z przodu przy wyłączonej poduszce"
+  ],
+  "exceptions": [
+    "Taksówki: dzieci mogą podróżować bez fotelika podczas krótkich przejazdów",
+    "Transport medyczny ratunkowy: inne zasady obowiązują"
+  ],
+  "penalties": [
+    "Mandat: 150 PLN za przewożenie dziecka bez właściwego fotelika",
+    "Punkty karne: 6 punktów"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 39"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-02-01",
+  "status": "published"
+}

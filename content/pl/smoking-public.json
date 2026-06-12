@@ -1,0 +1,43 @@
+{
+  "id": "005",
+  "slug": "smoking-public",
+  "language": "pl",
+  "category": "fines",
+  "title": "Palenie w miejscach publicznych",
+  "keywords": ["palenie", "papierosy", "e-papierosy", "zakaz", "publiczne"],
+  "question": "Gdzie palenie tytoniu jest zakazane w Polsce?",
+  "short_answer": "Palenie jest zakazane w pomieszczeniach zamkniętych oraz wielu miejscach publicznych na zewnątrz.",
+  "images": [],
+  "conditions": [
+    "Zakaz w wszystkich zamkniętych miejscach publicznych (restauracje, bary, biura, sklepy)",
+    "Zakaz w komunikacji publicznej (autobusy, tramwaje, pociągi, dworce)",
+    "Zakaz w parkach wyznaczonych jako strefy wolne od dymu",
+    "Zakaz w pobliżu placów zabaw i szkół (co najmniej 10 m)",
+    "Zakaz w placówkach ochrony zdrowia i szpitalach",
+    "Palenie dozwolone w wyznaczonych strefach dla palących"
+  ],
+  "exceptions": [
+    "Wyznaczone zewnętrzne strefy dla palących",
+    "Prywatne domy i posesje",
+    "Niektóre otwarte tarasy (jeśli nie są zamknięte)"
+  ],
+  "penalties": [
+    "Mandat: 500 PLN za palenie w miejscach zakazanych",
+    "Właściciele lokali: mandat 2000 PLN za umożliwienie palenia w lokalu"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zdrowia przed następstwami używania tytoniu",
+      "article": "Art. 5"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zdrowia – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19961350606"
+    }
+  ],
+  "updated_at": "2024-01-15",
+  "status": "published"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "009",
+  "slug": "rent-deposit",
+  "language": "en",
+  "category": "housing",
+  "title": "Rental deposit rules",
+  "keywords": ["rent", "deposit", "kaucja", "apartment", "housing", "landlord", "tenant"],
+  "question": "How much deposit can a landlord charge and when must it be returned?",
+  "short_answer": "Deposit cannot exceed 3 months rent and must be returned within 30 days of vacating.",
+  "images": [],
+  "conditions": [
+    "Maximum deposit: 3 months of rent (kaucja)",
+    "Must be returned within 30 days after the tenant vacates",
+    "Landlord may deduct costs for damages beyond normal wear and tear",
+    "Deductions must be documented with receipts",
+    "Deposit amount and return terms must be stated in the rental contract"
+  ],
+  "exceptions": [
+    "Social housing (komunalne) may have different rules",
+    "Student dormitories have separate regulations"
+  ],
+  "penalties": [
+    "Landlord who fails to return deposit can be sued in civil court",
+    "Court can order return plus interest and legal costs",
+    "Small claims court (e-sąd) is available for amounts under 75,000 PLN"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie praw lokatorów",
+      "article": "Art. 6"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie praw lokatorów – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710733"
+    }
+  ],
+  "updated_at": "2024-01-25",
+  "status": "published"
+}

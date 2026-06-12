@@ -1,0 +1,42 @@
+{
+  "id": "007",
+  "slug": "cycling-rules",
+  "language": "pl",
+  "category": "transport",
+  "title": "Przepisy dla rowerzystów",
+  "keywords": ["rower", "rowerzysta", "kask", "ścieżka rowerowa", "przepisy"],
+  "question": "Jakie są główne zasady dla rowerzystów w Polsce?",
+  "short_answer": "Rowerzyści muszą korzystać z dróg rowerowych tam gdzie istnieją, przestrzegać przepisów i mieć oświetlenie nocą.",
+  "images": [],
+  "conditions": [
+    "Obowiązek korzystania z wyznaczonych dróg rowerowych tam gdzie istnieją",
+    "Można jechać drogą, jeśli nie ma ścieżki rowerowej",
+    "Oświetlenie obowiązkowe od zmierzchu do świtu (przód białe, tył czerwone)",
+    "Jazda po chodniku dozwolona tylko przy znaku zezwalającym lub z dzieckiem do lat 10",
+    "Kask obowiązkowy dla rowerzystów do 18 roku życia"
+  ],
+  "exceptions": [
+    "Dorośli nie muszą prawnie nosić kasku (ale jest zalecany)",
+    "Dzieci do 10 lat mogą jeździć po chodniku pod opieką dorosłego"
+  ],
+  "penalties": [
+    "Mandat: 50–300 PLN za jazdę po chodniku bez zezwolenia",
+    "Mandat: 50–300 PLN za jazdę bez oświetlenia nocą",
+    "Mandat: 200–500 PLN za jazdę pod wpływem alkoholu"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 33"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    }
+  ],
+  "updated_at": "2024-01-10",
+  "status": "published"
+}

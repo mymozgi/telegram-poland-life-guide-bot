@@ -1,0 +1,39 @@
+{
+  "id": "012",
+  "slug": "bank-account",
+  "language": "en",
+  "category": "banks",
+  "title": "Opening a bank account as a foreigner",
+  "keywords": ["bank", "account", "foreigner", "migrant", "PESEL", "passport", "konto"],
+  "question": "Can a foreigner open a bank account in Poland without a PESEL number?",
+  "short_answer": "Yes. Most banks allow account opening with a passport and residence permit.",
+  "images": [],
+  "conditions": [
+    "Valid passport or national ID is required",
+    "Residence permit (karta pobytu) or registration certificate (zaświadczenie o zameldowaniu) is helpful",
+    "Some banks require a PESEL number — apply at your local municipality (urząd gminy)",
+    "Address in Poland is required",
+    "Some banks offer accounts for foreigners without PESEL (e.g. PKO BP, Santander, mBank, ING)"
+  ],
+  "exceptions": [
+    "EU citizens can open accounts with their EU national ID",
+    "Ukrainian citizens can open accounts with their Ukrainian passport (since 2022)",
+    "Some fintech apps (Revolut, Wise) do not require PESEL at all"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa Prawo bankowe",
+      "article": "Art. 49"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Komisja Nadzoru Finansowego (KNF)",
+      "url": "https://www.knf.gov.pl"
+    }
+  ],
+  "updated_at": "2024-02-20",
+  "status": "published"
+}

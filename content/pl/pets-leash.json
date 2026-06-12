@@ -1,0 +1,43 @@
+{
+  "id": "017",
+  "slug": "pets-leash",
+  "language": "pl",
+  "category": "pets",
+  "title": "Pies na smyczy w miejscach publicznych",
+  "keywords": ["pies", "smycz", "kaganiec", "publiczne", "park", "przepisy"],
+  "question": "Czy pies musi być na smyczy w miejscach publicznych w Polsce?",
+  "short_answer": "Tak. Psy muszą być prowadzone na smyczy w większości miejsc publicznych. Duże i agresywne rasy wymagają też kagańca.",
+  "images": [],
+  "conditions": [
+    "Psy muszą być prowadzone na smyczy w miejscach publicznych (ulice, parki, place)",
+    "Duże i potencjalnie niebezpieczne rasy muszą nosić kaganiec",
+    "Lista ras niebezpiecznych jest określona rozporządzeniem",
+    "Psy mogą biegać bez smyczy na wyznaczonych wybiegach",
+    "Pies musi być pod kontrolą właściciela przez cały czas"
+  ],
+  "exceptions": [
+    "Wybiegi dla psów – zabawa bez smyczy",
+    "Psy myśliwskie podczas polowań",
+    "Psy pasterskie/służbowe podczas wykonywania obowiązków"
+  ],
+  "penalties": [
+    "Mandat: 250–500 PLN za psa bez smyczy w miejscu publicznym",
+    "Mandat: do 500 PLN jeśli pies zaatakował osobę lub zwierzę z powodu braku kontroli",
+    "Pies może zostać odebrany przy powtarzających się naruszeniach"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zwierząt – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970110724"
+    }
+  ],
+  "updated_at": "2024-02-10",
+  "status": "published"
+}

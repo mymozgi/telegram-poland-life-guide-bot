@@ -1,0 +1,43 @@
+{
+  "id": "017",
+  "slug": "pets-leash",
+  "language": "en",
+  "category": "pets",
+  "title": "Dog leash rules in public",
+  "keywords": ["dog", "leash", "smycz", "public", "park", "muzzle", "kaganiec"],
+  "question": "Must my dog be on a leash in public places in Poland?",
+  "short_answer": "Yes. Dogs must be on a leash in most public places. Large/aggressive breeds also require a muzzle.",
+  "images": [],
+  "conditions": [
+    "Dogs must be on a leash in public spaces (streets, parks, squares)",
+    "Large and potentially dangerous breeds must wear a muzzle (kaganiec)",
+    "Dangerous dog breeds list is defined by regulation",
+    "Dogs may be off-leash in designated dog parks (wybieg dla psów)",
+    "Dog must be under owner's control at all times"
+  ],
+  "exceptions": [
+    "Dog parks (wybiegi) allow off-leash exercise",
+    "Hunting dogs during hunts are exempt from leash rules",
+    "Shepherd/working dogs on duty are exempt"
+  ],
+  "penalties": [
+    "Fine: 250–500 PLN for unleashed dog in public",
+    "Fine: up to 500 PLN if dog attacks a person or another animal due to lack of control",
+    "Dog may be seized if owner repeatedly fails to comply"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zwierząt – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970110724"
+    }
+  ],
+  "updated_at": "2024-02-10",
+  "status": "published"
+}
