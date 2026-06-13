@@ -33,6 +33,7 @@ export interface LocaleStrings {
   btn_whats_new: string;
   whats_new_header: string;
   whats_new_empty: string;
+  btn_support: string;
   article_conditions: string;
   article_exceptions: string;
   article_penalties: string;
@@ -78,6 +79,7 @@ const locales: Record<Language, LocaleStrings> = {
     btn_whats_new: '🆕 What\'s new',
     whats_new_header: '🆕 <b>Recently added</b>\n\nLatest 5 articles:',
     whats_new_empty: '🆕 No articles yet. Check back soon!',
+    btn_support: '☕ Support on Ko-fi',
     article_conditions: '📋 <b>Conditions:</b>',
     article_exceptions: '⚠️ <b>Exceptions:</b>',
     article_penalties: '💰 <b>Penalties:</b>',
@@ -133,6 +135,7 @@ const locales: Record<Language, LocaleStrings> = {
     btn_whats_new: '🆕 Co nowego',
     whats_new_header: '🆕 <b>Ostatnio dodane</b>\n\nNajnowsze 5 artykułów:',
     whats_new_empty: '🆕 Brak artykułów. Wróć wkrótce!',
+    btn_support: '☕ Wesprzyj na Ko-fi',
     article_conditions: '📋 <b>Warunki:</b>',
     article_exceptions: '⚠️ <b>Wyjątki:</b>',
     article_penalties: '💰 <b>Kary:</b>',
@@ -188,6 +191,7 @@ const locales: Record<Language, LocaleStrings> = {
     btn_whats_new: '🆕 Що нового',
     whats_new_header: '🆕 <b>Нещодавно додано</b>\n\nОстанні 5 статей:',
     whats_new_empty: '🆕 Статей ще немає. Повертайтесь незабаром!',
+    btn_support: '☕ Підтримати на Ko-fi',
     article_conditions: '📋 <b>Умови:</b>',
     article_exceptions: '⚠️ <b>Винятки:</b>',
     article_penalties: '💰 <b>Штрафи:</b>',
@@ -243,6 +247,7 @@ const locales: Record<Language, LocaleStrings> = {
     btn_whats_new: '🆕 Что нового',
     whats_new_header: '🆕 <b>Недавно добавлено</b>\n\nПоследние 5 статей:',
     whats_new_empty: '🆕 Статей пока нет. Заходите позже!',
+    btn_support: '☕ Поддержать на Ko-fi',
     article_conditions: '📋 <b>Условия:</b>',
     article_exceptions: '⚠️ <b>Исключения:</b>',
     article_penalties: '💰 <b>Штрафы:</b>',
