@@ -28,6 +28,8 @@ export interface LocaleStrings {
   btn_back: string;
   btn_menu: string;
   btn_skip_photo: string;
+  btn_cancel: string;
+  cancel_confirmed: string;
   article_conditions: string;
   article_exceptions: string;
   article_penalties: string;
@@ -68,6 +70,8 @@ const locales: Record<Language, LocaleStrings> = {
     btn_back: '🔙 Back',
     btn_menu: '🏠 Menu',
     btn_skip_photo: 'Skip →',
+    btn_cancel: '❌ Cancel',
+    cancel_confirmed: '↩️ Cancelled. Back to menu.',
     article_conditions: '📋 <b>Conditions:</b>',
     article_exceptions: '⚠️ <b>Exceptions:</b>',
     article_penalties: '💰 <b>Penalties:</b>',
@@ -118,6 +122,8 @@ const locales: Record<Language, LocaleStrings> = {
     btn_back: '🔙 Wstecz',
     btn_menu: '🏠 Menu',
     btn_skip_photo: 'Pomiń →',
+    btn_cancel: '❌ Anuluj',
+    cancel_confirmed: '↩️ Anulowano. Powrót do menu.',
     article_conditions: '📋 <b>Warunki:</b>',
     article_exceptions: '⚠️ <b>Wyjątki:</b>',
     article_penalties: '💰 <b>Kary:</b>',
@@ -168,6 +174,8 @@ const locales: Record<Language, LocaleStrings> = {
     btn_back: '🔙 Назад',
     btn_menu: '🏠 Меню',
     btn_skip_photo: 'Пропустити →',
+    btn_cancel: '❌ Скасувати',
+    cancel_confirmed: '↩️ Скасовано. Повернення до меню.',
     article_conditions: '📋 <b>Умови:</b>',
     article_exceptions: '⚠️ <b>Винятки:</b>',
     article_penalties: '💰 <b>Штрафи:</b>',
@@ -218,6 +226,8 @@ const locales: Record<Language, LocaleStrings> = {
     btn_back: '🔙 Назад',
     btn_menu: '🏠 Меню',
     btn_skip_photo: 'Пропустить →',
+    btn_cancel: '❌ Отмена',
+    cancel_confirmed: '↩️ Отменено. Возврат в меню.',
     article_conditions: '📋 <b>Условия:</b>',
     article_exceptions: '⚠️ <b>Исключения:</b>',
     article_penalties: '💰 <b>Штрафы:</b>',

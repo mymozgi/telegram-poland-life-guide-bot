@@ -23,6 +23,21 @@ export function registerStartHandler(bot: Telegraf<BotContext>, _db: Database.Da
   bot.command('menu', async (ctx) => {
     await showMainMenu(ctx);
   });
+
+  bot.command('cancel', async (ctx) => {
+    ctx.session.state = undefined;
+    ctx.session.feedbackText = undefined;
+    await ctx.reply(t(ctx.userLanguage).cancel_confirmed, { parse_mode: 'HTML' });
+    await showMainMenu(ctx);
+  });
+
+  bot.action('cancel', async (ctx) => {
+    await ctx.answerCbQuery();
+    ctx.session.state = undefined;
+    ctx.session.feedbackText = undefined;
+    await ctx.editMessageText(t(ctx.userLanguage).cancel_confirmed, { parse_mode: 'HTML' });
+    await showMainMenu(ctx);
+  });
 }
 
 export async function showLanguageSelection(ctx: BotContext): Promise<void> {

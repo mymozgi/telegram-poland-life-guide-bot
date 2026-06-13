@@ -11,7 +11,11 @@ export function registerSearchHandler(bot: Telegraf<BotContext>, db: Database.Da
     '🔍 Ask question', '🔍 Zadaj pytanie', '🔍 Задати питання', '🔍 Задать вопрос',
   ], async (ctx) => {
     ctx.session.state = 'awaiting_search';
-    await ctx.reply(t(ctx.userLanguage).search_prompt, { parse_mode: 'HTML' });
+    const loc = t(ctx.userLanguage);
+    await ctx.reply(loc.search_prompt, {
+      parse_mode: 'HTML',
+      ...Markup.inlineKeyboard([[Markup.button.callback(loc.btn_cancel, 'cancel')]]),
+    });
   });
 
   bot.on('text', async (ctx, next) => {

@@ -28,7 +28,11 @@ export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.
     '💡 Запропонувати покращення', '💡 Предложить улучшение',
   ], async (ctx) => {
     ctx.session.state = 'awaiting_feedback_text';
-    await ctx.reply(t(ctx.userLanguage).feedback_prompt, { parse_mode: 'HTML' });
+    const loc = t(ctx.userLanguage);
+    await ctx.reply(loc.feedback_prompt, {
+      parse_mode: 'HTML',
+      ...Markup.inlineKeyboard([[Markup.button.callback(loc.btn_cancel, 'cancel')]]),
+    });
   });
 
   bot.on('text', async (ctx, next) => {
@@ -43,7 +47,7 @@ export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.
       {
         parse_mode: 'HTML',
         ...Markup.inlineKeyboard([
-          [Markup.button.callback(loc.btn_skip_photo, 'fb:skip')],
+          [Markup.button.callback(loc.btn_skip_photo, 'fb:skip'), Markup.button.callback(loc.btn_cancel, 'cancel')],
         ]),
       }
     );
