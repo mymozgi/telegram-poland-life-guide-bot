@@ -54,3 +54,9 @@ export function getFinesArticles(lang: Language): Article[] {
 export function getCategoryList(): Category[] {
   return [...CATEGORIES];
 }
+
+export function getRecentArticles(lang: Language, limit = 5): Article[] {
+  return [...getArticlesByLanguage(lang)]
+    .sort((a, b) => b.updated_at.localeCompare(a.updated_at))
+    .slice(0, limit);
+}

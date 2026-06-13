@@ -20,8 +20,9 @@ export async function showMainMenu(ctx: BotContext): Promise<void> {
       ...Markup.keyboard([
         [loc.btn_search],
         [loc.btn_categories, loc.btn_fines],
-        [loc.btn_favorites, loc.btn_feedback],
-        [loc.btn_language, loc.btn_about],
+        [loc.btn_favorites, loc.btn_whats_new],
+        [loc.btn_feedback, loc.btn_language],
+        [loc.btn_about],
       ]).resize(),
     }
   );

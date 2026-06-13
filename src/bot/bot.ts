@@ -13,6 +13,7 @@ import { registerFavoritesHandler } from '../handlers/favorites';
 import { registerFeedbackHandler } from '../handlers/feedback';
 import { registerAboutHandler } from '../handlers/about';
 import { registerFinesHandler } from '../handlers/fines';
+import { registerWhatsNewHandler } from '../handlers/whatsnew';
 
 const defaultSession = (): SessionData => ({
   state: undefined,
@@ -36,6 +37,7 @@ export function createBot(db: Database.Database): Telegraf<BotContext> {
   registerFeedbackHandler(bot, db);
   registerAboutHandler(bot, db);
   registerFinesHandler(bot, db);
+  registerWhatsNewHandler(bot, db);
 
   bot.catch((err, ctx) => {
     console.error(`Error for ${ctx.updateType}:`, err);
