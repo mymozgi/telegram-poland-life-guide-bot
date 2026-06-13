@@ -5,6 +5,22 @@ import { t } from '../locales';
 import { saveFeedback } from '../services/feedback';
 import { trackEvent } from '../analytics/tracker';
 import { showMainMenu } from './menu';
+import { config } from '../config';
+
+async function notifyAdmin(bot: Telegraf<BotContext>, from: BotContext['from'], text: string | null, photoId: string | null): Promise<void> {
+  if (!config.ADMIN_ID) return;
+  const user = from ? `@${from.username ?? from.id} (${from.first_name})` : 'Unknown';
+  const message = `💡 <b>New feedback</b>\n👤 ${user}\n\n${text ?? '(no text)'}`;
+  try {
+    if (photoId) {
+      await bot.telegram.sendPhoto(config.ADMIN_ID, photoId, { caption: message, parse_mode: 'HTML' });
+    } else {
+      await bot.telegram.sendMessage(config.ADMIN_ID, message, { parse_mode: 'HTML' });
+    }
+  } catch {
+    // admin notification is best-effort
+  }
+}
 
 export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.Database): void {
   bot.hears([
@@ -41,6 +57,7 @@ export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.
 
     saveFeedback(db, ctx.dbUserId, text, fileId);
     trackEvent(db, ctx.dbUserId, 'feedback_sent', { has_photo: true });
+    await notifyAdmin(bot, ctx.from, text, fileId);
 
     ctx.session.state = undefined;
     ctx.session.feedbackText = undefined;
@@ -55,6 +72,7 @@ export function registerFeedbackHandler(bot: Telegraf<BotContext>, db: Database.
 
     saveFeedback(db, ctx.dbUserId, text, null);
     trackEvent(db, ctx.dbUserId, 'feedback_sent', { has_photo: false });
+    await notifyAdmin(bot, ctx.from, text, null);
 
     ctx.session.state = undefined;
     ctx.session.feedbackText = undefined;
