@@ -1,0 +1,45 @@
+{
+  "id": "024",
+  "slug": "medical-emergency",
+  "language": "pl",
+  "category": "emergency",
+  "title": "Nagły wypadek medyczny w Polsce",
+  "keywords": ["pogotowie", "112", "999", "NFZ", "EKUZ", "szpital", "PESEL", "ubezpieczenie", "apteka dyżurna"],
+  "question": "Jak wezwać pogotowie i komu przysługuje bezpłatna pomoc medyczna w Polsce?",
+  "short_answer": "Dzwoń pod 112 (ogólny numer alarmowy) lub 999 (pogotowie). Pomoc w nagłych przypadkach jest bezpłatna dla wszystkich, niezależnie od ubezpieczenia.",
+  "images": [],
+  "conditions": [
+    "Numery alarmowe: 112 (wszystkie służby) lub 999 (tylko pogotowie)",
+    "Pomoc doraźna w nagłych przypadkach jest BEZPŁATNA dla wszystkich — w tym dla cudzoziemców bez ubezpieczenia",
+    "Z numerem PESEL i ubezpieczeniem NFZ: leczenie w ramach NFZ jest bezpłatne",
+    "Obywatele UE/EOG: okaż kartę EKUZ — obejmuje leczenie równoważne polskim ubezpieczonym",
+    "Cudzoziemcy spoza UE bez ubezpieczenia: płacą za nieostre przypadki, nagłe są bezpłatne",
+    "Apteka dyżurna czynna całą dobę: sprawdź na gis.gov.pl lub zapytaj w dowolnej aptece",
+    "Nocna i Świąteczna Opieka Zdrowotna: dostępna w większości szpitali"
+  ],
+  "exceptions": [
+    "Prywatne ubezpieczenie (Medicover, LuxMed, PZU Zdrowie): skorzystaj z ich infolinii",
+    "Nagłe stany stomatologiczne: obsługiwane w szpitalach publicznych",
+    "Kryzys psychiatryczny: zadzwoń na Telefon Zaufania 116 123 lub jedź na SOR"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o Państwowym Ratownictwie Medycznym",
+      "article": "Art. 3"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NFZ – Prawa pacjenta",
+      "url": "https://www.nfz.gov.pl/dla-pacjenta/"
+    },
+    {
+      "title": "Dyżury aptek – GIS",
+      "url": "https://www.gis.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

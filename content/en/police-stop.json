@@ -1,0 +1,50 @@
+{
+  "id": "021",
+  "slug": "police-stop",
+  "language": "en",
+  "category": "emergency",
+  "title": "Stopped by police (Policja)",
+  "keywords": ["police", "policja", "stop", "documents", "ID", "passport", "detained", "rights", "filming"],
+  "question": "What should I do if police stop me in Poland?",
+  "short_answer": "Stay calm, show your ID, passport or Karta Pobytu. You are legally required to identify yourself. You have the right to know why you were stopped.",
+  "images": [],
+  "conditions": [
+    "Police have the right to check your identity at any time",
+    "You must present a valid ID, passport, or Karta Pobytu",
+    "Police must show their badge (legitymacja) upon request",
+    "You have the right to ask why you were stopped",
+    "You may record the interaction in a public place",
+    "If detained, you have the right to notify a family member and a lawyer",
+    "Detention without charge cannot exceed 48 hours"
+  ],
+  "exceptions": [
+    "Children under 17 cannot be questioned without a parent or guardian present",
+    "If you do not have documents on you, you must give your name, surname, address and date of birth",
+    "You can be detained up to 24h for establishing identity if you refuse to give it"
+  ],
+  "penalties": [
+    "Refusing to identify yourself: fine up to 500 PLN or arrest up to 30 days",
+    "Obstructing police: fine up to 1000 PLN or arrest",
+    "Assault on officer: criminal charge, up to 3 years in prison"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o Policji",
+      "article": "Art. 15"
+    },
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 65"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o Policji – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900300179"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

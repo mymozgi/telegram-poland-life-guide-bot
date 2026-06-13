@@ -1,0 +1,43 @@
+{
+  "id": "025",
+  "slug": "lost-documents",
+  "language": "pl",
+  "category": "emergency",
+  "title": "Zagubione lub skradzione dokumenty w Polsce",
+  "keywords": ["paszport", "zgubiony", "skradziony", "dokumenty", "konsulat", "karta pobytu", "komisariat", "protokół"],
+  "question": "Co zrobić gdy zgubiłem lub skradziono mi paszport albo dokumenty w Polsce?",
+  "short_answer": "Zgłoś kradzież lub zagubienie na najbliższym komisariacie policji i odbierz protokół. Następnie skontaktuj się z konsulatem swojego kraju w celu wyrobienia zastępczego dokumentu podróży.",
+  "images": [],
+  "conditions": [
+    "Krok 1: Zgłoś na komisariacie policji — otrzymasz protokół zgłoszenia kradzieży/zagubienia",
+    "Krok 2: Skontaktuj się z konsulatem — może wystawić tymczasowy dokument podróży",
+    "Wymiana Karty Pobytu: złóż wniosek w Urzędzie Wojewódzkim z protokołem policyjnym",
+    "Przechowuj cyfrowe kopie dokumentów w telefonie lub e-mailu",
+    "Tymczasowy dokument podróży wydawany jest w ciągu 1–3 dni roboczych",
+    "Obywatele Ukrainy: Konsulat Ukrainy w Warszawie, tel. +48 22 621 29 41"
+  ],
+  "exceptions": [
+    "Obywatele UE mogą wracać do kraju z samym protokołem policyjnym (bez paszportu)",
+    "Dokumenty awaryjne wystawiane szybciej przy wykupionym bilecie — przynieś potwierdzenie",
+    "Duplikat Karty Pobytu: opłata ok. 50 zł"
+  ],
+  "penalties": [
+    "Niezgłoszenie kradzieży zwiększa ryzyko: osoba, która znajdzie twoje dane, może je wykorzystać do fraudu",
+    "Posługiwanie się cudzymi dokumentami: przestępstwo karne"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o dokumentach paszportowych",
+      "article": "Art. 40"
+    }
+  ],
+  "sources": [
+    {
+      "title": "MSZ – Utrata dokumentów za granicą",
+      "url": "https://www.gov.pl/web/dyplomacja/utrata-dokumentow-za-granica"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "023",
+  "slug": "car-accident",
+  "language": "pl",
+  "category": "emergency",
+  "title": "Wypadek samochodowy w Polsce",
+  "keywords": ["wypadek", "kolizja", "DTP", "OC", "ubezpieczenie", "112", "formularz europejski", "policja"],
+  "question": "Co zrobić po wypadku samochodowym w Polsce?",
+  "short_answer": "Zatrzymaj się natychmiast i włącz światła awaryjne. Zadzwoń pod 112 jeśli ktoś jest ranny. W przypadku kolizji bez rannych możesz skorzystać z Europejskiego Formularza Wypadkowego zamiast wzywać policję.",
+  "images": [],
+  "conditions": [
+    "Włącz światła awaryjne i ustaw trójkąt ostrzegawczy (obowiązek ustawowy)",
+    "Kolizja (brak rannych): możliwe rozwiązanie bez policji — użyj Europejskiego Formularza Wypadkowego",
+    "Wypadek (ranni lub ofiara śmiertelna): zadzwoń pod 112 — obowiązkowo",
+    "Wymień dane: imię, nazwisko, ubezpieczyciel, numer polisy OC, numer rejestracyjny",
+    "Zrób zdjęcia obu pojazdów i miejsca zdarzenia przed odjazdem",
+    "Każdy kierowca musi mieć ważne ubezpieczenie OC",
+    "Nie przestawiaj pojazdów przy poważnych wypadkach (do czasu udokumentowania)"
+  ],
+  "exceptions": [
+    "Jeśli drugi kierowca odmawia współpracy lub jest pod wpływem alkoholu — zawsze wzywaj policję",
+    "Jeśli szkoda dotyczy tylko twojego pojazdu — nie musisz wzywać policji",
+    "Europejski Formularz Wypadkowy jest ważny we wszystkich krajach UE"
+  ],
+  "penalties": [
+    "Ucieczka z miejsca wypadku: do 5 lat pozbawienia wolności",
+    "Jazda bez OC: grzywna 4 000–6 000 zł w zależności od rodzaju pojazdu",
+    "Nieudzielenie pomocy poszkodowanemu: do 3 lat pozbawienia wolności"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 44"
+    },
+    {
+      "country": "PL",
+      "act": "Ustawa o ubezpieczeniach obowiązkowych",
+      "article": "Art. 23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    },
+    {
+      "title": "Europejski Formularz Wypadkowy – PIU",
+      "url": "https://piu.org.pl/dla-klientow/po-wypadku/europejski-formularz-wypadkowy/"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

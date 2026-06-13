@@ -1,0 +1,45 @@
+{
+  "id": "024",
+  "slug": "medical-emergency",
+  "language": "en",
+  "category": "emergency",
+  "title": "Medical emergency in Poland",
+  "keywords": ["ambulance", "emergency", "hospital", "112", "999", "PESEL", "NFZ", "EKUZ", "insurance", "doctor"],
+  "question": "How to call an ambulance and who gets free medical care in Poland?",
+  "short_answer": "Call 112 (general emergency) or 999 (ambulance). Emergency care is provided to everyone regardless of insurance status. For non-emergency care you need NFZ insurance or pay privately.",
+  "images": [],
+  "conditions": [
+    "Emergency number: 112 (all emergencies) or 999 (ambulance only)",
+    "Emergency care (pomoc doraźna) is FREE for everyone — including foreigners without insurance",
+    "With PESEL and NFZ insurance: most treatment is free",
+    "EU/EEA citizens: present EKUZ card for coverage equivalent to Polish residents",
+    "Non-EU without insurance: pay for non-emergency care, emergency is still free",
+    "24h duty pharmacy (apteka dyżurna): search at gis.gov.pl or ask any pharmacy",
+    "Night/weekend GP: Nocna i Świąteczna Opieka Zdrowotna — available at most hospitals"
+  ],
+  "exceptions": [
+    "Private insurance (Medicover, LuxMed, PZU Zdrowie): use their dedicated hotline for faster access",
+    "Dental emergency: covered in public hospitals even without NFZ",
+    "Psychiatric emergency: 116 123 (crisis line) or go to hospital SOR (emergency room)"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o Państwowym Ratownictwie Medycznym",
+      "article": "Art. 3"
+    }
+  ],
+  "sources": [
+    {
+      "title": "NFZ – Prawa pacjenta",
+      "url": "https://www.nfz.gov.pl/dla-pacjenta/"
+    },
+    {
+      "title": "Dyżury aptek – GIS",
+      "url": "https://www.gis.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

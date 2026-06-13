@@ -1,0 +1,50 @@
+{
+  "id": "021",
+  "slug": "police-stop",
+  "language": "pl",
+  "category": "emergency",
+  "title": "Zatrzymany przez policję",
+  "keywords": ["policja", "zatrzymanie", "dokumenty", "legitymacja", "nagrywanie", "prawa", "areszt"],
+  "question": "Co zrobić gdy zatrzyma mnie policja w Polsce?",
+  "short_answer": "Zachowaj spokój i okaż dowód osobisty, paszport lub Kartę Pobytu. Masz obowiązek się wylegitymować. Masz prawo wiedzieć, dlaczego zostałeś zatrzymany.",
+  "images": [],
+  "conditions": [
+    "Policja ma prawo wylegitymować cię w każdej chwili",
+    "Musisz okazać ważny dowód tożsamości, paszport lub Kartę Pobytu",
+    "Policjant musi okazać legitymację na żądanie",
+    "Masz prawo zapytać o powód zatrzymania",
+    "Możesz nagrywać interwencję w miejscu publicznym",
+    "Przy zatrzymaniu masz prawo powiadomić bliską osobę i adwokata",
+    "Zatrzymanie bez zarzutów nie może trwać dłużej niż 48 godzin"
+  ],
+  "exceptions": [
+    "Osoby poniżej 17. roku życia nie mogą być przesłuchiwane bez rodzica lub opiekuna",
+    "Jeśli nie masz dokumentów, podaj imię, nazwisko, adres i datę urodzenia",
+    "Odmowa podania danych może skutkować zatrzymaniem do 24h w celu ustalenia tożsamości"
+  ],
+  "penalties": [
+    "Odmowa wylegitymowania się: grzywna do 500 zł lub areszt do 30 dni",
+    "Utrudnianie interwencji: grzywna do 1000 zł",
+    "Napaść na funkcjonariusza: sprawa karna, do 3 lat więzienia"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o Policji",
+      "article": "Art. 15"
+    },
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 65"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o Policji – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900300179"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

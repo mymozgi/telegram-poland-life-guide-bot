@@ -1,0 +1,54 @@
+{
+  "id": "023",
+  "slug": "car-accident",
+  "language": "en",
+  "category": "emergency",
+  "title": "Car accident in Poland (DTP / Kolizja)",
+  "keywords": ["accident", "car", "DTP", "kolizja", "wypadek", "insurance", "OC", "police", "112", "European report"],
+  "question": "What to do after a car accident in Poland?",
+  "short_answer": "Stop immediately, turn on hazard lights. Call 112 if anyone is injured. For minor collisions with no injuries, use the European Accident Report form instead of calling police.",
+  "images": [],
+  "conditions": [
+    "Turn on hazard lights and place warning triangle (required by law)",
+    "Kolizja (no injuries): both drivers can settle without police using Europejski Formularz Wypadkowy",
+    "Wypadek (injuries or death): call 112 immediately — mandatory",
+    "Exchange: name, surname, insurer name, OC policy number, registration plate",
+    "Take photos of both vehicles and the scene before moving cars",
+    "All drivers must have valid OC (third-party liability) insurance",
+    "Do not move vehicles until situation is documented (for serious accidents)"
+  ],
+  "exceptions": [
+    "If the other driver refuses to cooperate or is drunk — always call police (112 or 997)",
+    "If only your car is damaged and no other party involved — no need to call police",
+    "EU citizens: European Accident Report is valid across all EU countries"
+  ],
+  "penalties": [
+    "Fleeing the scene of an accident: up to 5 years in prison",
+    "Driving without OC insurance: fine 4,000–6,000 PLN depending on vehicle type",
+    "Failure to provide assistance to injured: up to 3 years in prison"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Kodeks drogowy (Prawo o ruchu drogowym)",
+      "article": "Art. 44"
+    },
+    {
+      "country": "PL",
+      "act": "Ustawa o ubezpieczeniach obowiązkowych",
+      "article": "Art. 23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    },
+    {
+      "title": "Europejski Formularz Wypadkowy – PIU",
+      "url": "https://piu.org.pl/dla-klientow/po-wypadku/europejski-formularz-wypadkowy/"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

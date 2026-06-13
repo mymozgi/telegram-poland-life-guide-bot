@@ -1,0 +1,54 @@
+{
+  "id": "023",
+  "slug": "car-accident",
+  "language": "ua",
+  "category": "emergency",
+  "title": "ДТП в Польщі (Kolizja / Wypadek)",
+  "keywords": ["ДТП", "аварія", "kolizja", "wypadek", "страховка", "OC", "поліція", "112", "європротокол"],
+  "question": "Що робити після ДТП в Польщі?",
+  "short_answer": "Негайно зупиніться та ввімкніть аварійні вогні. Зателефонуйте 112 якщо є постраждалі. При незначній аварії без постраждалих можна скористатися Europejskim Formularzem Wypadkowym замість виклику поліції.",
+  "images": [],
+  "conditions": [
+    "Ввімкніть аварійні вогні та виставте аварійний трикутник (вимога закону)",
+    "Kolizja (немає постраждалих): можливе врегулювання без поліції через Europejski Formularz Wypadkowy",
+    "Wypadek (є постраждалі або жертви): телефонуйте 112 — обов'язково",
+    "Обміняйтесь даними: ім'я, прізвище, страховик, номер поліса OC, номерний знак",
+    "Зробіть фото обох автомобілів та місця аварії до від'їзду",
+    "Кожен водій зобов'язаний мати чинне страхування OC",
+    "Не переміщуйте автомобілі при серйозних аваріях до документування"
+  ],
+  "exceptions": [
+    "Якщо інший водій відмовляється від співпраці або п'яний — завжди викликайте поліцію",
+    "Якщо пошкоджено лише ваш автомобіль і немає іншої сторони — поліція не обов'язкова",
+    "Europejski Formularz Wypadkowy діє у всіх країнах ЄС"
+  ],
+  "penalties": [
+    "Втеча з місця аварії: до 5 років позбавлення волі",
+    "Їзда без страховки OC: штраф 4 000–6 000 зл залежно від типу транспорту",
+    "Ненадання допомоги постраждалому: до 3 років позбавлення волі"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Prawo o ruchu drogowym",
+      "article": "Art. 44"
+    },
+    {
+      "country": "PL",
+      "act": "Ustawa o ubezpieczeniach obowiązkowych",
+      "article": "Art. 23"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Prawo o ruchu drogowym – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970980602"
+    },
+    {
+      "title": "Europejski Formularz Wypadkowy – PIU",
+      "url": "https://piu.org.pl/dla-klientow/po-wypadku/europejski-formularz-wypadkowy/"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "022",
+  "slug": "straz-miejska",
+  "language": "en",
+  "category": "emergency",
+  "title": "Stopped by Straż Miejska (City Guards)",
+  "keywords": ["straz miejska", "city guard", "municipal police", "fine", "documents", "powers"],
+  "question": "What can Straż Miejska do and what are my obligations when stopped?",
+  "short_answer": "Straż Miejska (city guards) have limited powers compared to police. They can check your identity only in connection with a violation and issue fines for minor offences.",
+  "images": [],
+  "conditions": [
+    "Can check your identity only if you are suspected of a violation",
+    "Can issue fines (mandaty) for: littering, parking violations, noise, drinking alcohol in public",
+    "Must show their badge (legitymacja) upon request",
+    "Cannot arrest or detain you — only police can do that",
+    "Cannot search your bags or belongings",
+    "Can call police if you refuse to cooperate"
+  ],
+  "exceptions": [
+    "Cannot stop you on the street without a specific reason (suspected violation)",
+    "In some cities Straż Miejska has expanded powers — check local regulations",
+    "You can refuse to show documents if no violation is suspected — but this may escalate the situation"
+  ],
+  "penalties": [
+    "Fines for minor violations: 20–500 PLN",
+    "Refusing to pay a fine on the spot: case sent to court, fine may be higher",
+    "You can appeal any fine within 7 days"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o strażach gminnych",
+      "article": "Art. 12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o strażach gminnych – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971230779"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

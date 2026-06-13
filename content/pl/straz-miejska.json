@@ -1,0 +1,44 @@
+{
+  "id": "022",
+  "slug": "straz-miejska",
+  "language": "pl",
+  "category": "emergency",
+  "title": "Zatrzymany przez Straż Miejską",
+  "keywords": ["straż miejska", "mandat", "dokumenty", "uprawnienia", "grzywna", "legitymacja"],
+  "question": "Co może zrobić Straż Miejska i jakie mam obowiązki?",
+  "short_answer": "Straż Miejska ma ograniczone uprawnienia w porównaniu z policją. Może sprawdzić tożsamość tylko w związku z wykroczeniem i wystawić mandat za drobne przewinienia.",
+  "images": [],
+  "conditions": [
+    "Może sprawdzić tożsamość tylko przy podejrzeniu wykroczenia",
+    "Może wystawić mandat za: śmiecenie, parkowanie, hałas, spożywanie alkoholu w miejscu publicznym",
+    "Musi okazać legitymację na żądanie",
+    "Nie może zatrzymać ani aresztować — tylko policja ma takie uprawnienia",
+    "Nie może przeszukiwać toreb ani bagażu",
+    "Może wezwać policję jeśli odmawiasz współpracy"
+  ],
+  "exceptions": [
+    "Nie może zatrzymać cię na ulicy bez konkretnego powodu (podejrzenia wykroczenia)",
+    "W niektórych miastach Straż Miejska ma rozszerzone uprawnienia — sprawdź lokalne przepisy",
+    "Możesz odmówić okazania dokumentów bez podejrzenia wykroczenia — ale może to eskalować sytuację"
+  ],
+  "penalties": [
+    "Mandaty za drobne wykroczenia: 20–500 zł",
+    "Odmowa przyjęcia mandatu: sprawa kierowana do sądu, grzywna może być wyższa",
+    "Odwołanie od mandatu: możliwe w ciągu 7 dni"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o strażach gminnych",
+      "article": "Art. 12"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o strażach gminnych – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19971230779"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "025",
+  "slug": "lost-documents",
+  "language": "en",
+  "category": "emergency",
+  "title": "Lost or stolen documents in Poland",
+  "keywords": ["passport", "lost", "stolen", "documents", "konsulat", "consulate", "karta pobytu", "police report", "komisariat"],
+  "question": "What to do if my passport or documents were lost or stolen in Poland?",
+  "short_answer": "Report immediately to the nearest police station (komisariat) to get an official protocol. Then contact your country's consulate to replace the passport.",
+  "images": [],
+  "conditions": [
+    "Step 1: Report to police (Komisariat Policji) — get a protocol (protokół zgłoszenia kradzieży/zagubienia)",
+    "Step 2: Contact your consulate — they can issue an emergency travel document",
+    "For Karta Pobytu replacement: apply at Urząd Wojewódzki with police protocol",
+    "Keep digital copies of all documents in your phone or email",
+    "Temporary travel document can be issued within 1–3 working days by the consulate",
+    "Ukrainian citizens: contact the Consulate of Ukraine in Warsaw (+48 22 621 29 41)"
+  ],
+  "exceptions": [
+    "EU citizens can travel back to their home country with just a police protocol (no passport needed)",
+    "Emergency travel documents are issued faster for booked flights — bring your ticket",
+    "If Karta Pobytu was stolen, apply for a duplicate — fee is around 50 PLN"
+  ],
+  "penalties": [
+    "Not reporting a stolen document increases risk: if someone misuses your identity, you may face complications",
+    "Using someone else's documents: criminal offence"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o dokumentach paszportowych",
+      "article": "Art. 40"
+    }
+  ],
+  "sources": [
+    {
+      "title": "MSZ – Utrata dokumentów za granicą",
+      "url": "https://www.gov.pl/web/dyplomacja/utrata-dokumentow-za-granica"
+    },
+    {
+      "title": "Konsulat Ukrainy w Warszawie",
+      "url": "https://poland.mfa.gov.ua"
+    }
+  ],
+  "updated_at": "2026-06-13",
+  "status": "published"
+}

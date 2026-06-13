@@ -87,6 +87,7 @@ const locales: Record<Language, LocaleStrings> = {
       mail: '📬 Mail',
       fines: '⚖️ Fines',
       pets: '🐾 Pets',
+      emergency: '🚨 Emergency',
     },
   },
   pl: {
@@ -136,6 +137,7 @@ const locales: Record<Language, LocaleStrings> = {
       mail: '📬 Poczta',
       fines: '⚖️ Mandaty',
       pets: '🐾 Zwierzęta',
+      emergency: '🚨 Sytuacje kryzysowe',
     },
   },
   ua: {
@@ -185,6 +187,7 @@ const locales: Record<Language, LocaleStrings> = {
       mail: '📬 Пошта',
       fines: '⚖️ Штрафи',
       pets: '🐾 Тварини',
+      emergency: '🚨 Надзвичайні ситуації',
     },
   },
   ru: {
@@ -234,6 +237,7 @@ const locales: Record<Language, LocaleStrings> = {
       mail: '📬 Почта',
       fines: '⚖️ Штрафы',
       pets: '🐾 Животные',
+      emergency: '🚨 Экстренные ситуации',
     },
   },
 };
