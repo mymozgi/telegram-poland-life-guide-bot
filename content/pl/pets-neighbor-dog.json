@@ -1,0 +1,53 @@
+{
+  "id": "033",
+  "slug": "pets-neighbor-dog",
+  "language": "pl",
+  "category": "pets",
+  "title": "Agresywny lub głośny pies sąsiada — co zrobić",
+  "keywords": ["sąsiad", "pies", "agresywny", "szczekanie", "skarga", "straż miejska", "hałas", "atak"],
+  "question": "Co mogę zrobić z agresywnym lub ciągle szczekającym psem sąsiada w Polsce?",
+  "short_answer": "Możesz zgłosić do Straży Miejskiej lub inspekcji weterynaryjnej. Jeśli pies cię zaatakował — zadzwoń na 112 i złóż zawiadomienie na policji.",
+  "images": [],
+  "conditions": [
+    "Ciągłe szczekanie: najpierw spróbuj porozmawiać z sąsiadem spokojnie",
+    "Jeśli to nie pomoże: zgłoś do Straży Miejskiej — zajmuje się skargami na hałas i uciążliwe zwierzęta",
+    "Agresywny pies bez smyczy w miejscu publicznym: natychmiast zadzwoń do Straży Miejskiej",
+    "Pies cię zaatakował: zadzwoń na 112, skorzystaj z pomocy medycznej i złóż zawiadomienie na komisariacie",
+    "Inspekcja Weterynaryjna zajmuje się naruszeniami dotyczącymi dobrostanu zwierząt",
+    "Dokumentuj wszystko: zdjęcia, filmy, daty i godziny incydentów"
+  ],
+  "exceptions": [
+    "Jeśli pies jest zaniedbywany lub maltretowany: zgłoś do TOZ lub lokalnego schroniska",
+    "W spółdzielniach: zgłoś też do zarządcy/administratora budynku",
+    "Wielokrotne ataki tego samego psa: sąd może nakazać odbiór psa właścicielowi"
+  ],
+  "penalties": [
+    "Właściciel atakującego psa: odpowiedzialność cywilna za koszty leczenia i odszkodowanie",
+    "Pies agresywny bez smyczy: mandat 250–500 zł",
+    "Zaniedbanie/okrucieństwo wobec zwierząt: odpowiedzialność karna"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    },
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 77"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Straż Miejska Gdańsk",
+      "url": "https://www.strazmiejska.gda.pl"
+    },
+    {
+      "title": "TOZ – Towarzystwo Opieki nad Zwierzętami",
+      "url": "https://www.toz.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

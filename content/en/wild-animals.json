@@ -1,0 +1,47 @@
+{
+  "id": "026",
+  "slug": "wild-animals",
+  "language": "en",
+  "category": "nature",
+  "title": "Encountering wild animals in Poland",
+  "keywords": ["wild boar", "dzik", "fox", "lis", "badger", "borsuk", "wildlife", "park", "forest", "danger"],
+  "question": "What should I do if I encounter a wild boar, fox or badger in Poland?",
+  "short_answer": "Stay calm. Do not run, do not shout, do not feed. Back away slowly. Wild boars are increasingly common in Polish cities and parks.",
+  "images": [],
+  "conditions": [
+    "🐗 Wild boar (dzik): freeze, then back away slowly and quietly. Never run — it triggers a chase instinct",
+    "🦊 Fox (lis): keep distance. Urban foxes may carry rabies. Never touch or feed",
+    "🦡 Badger (borsuk): usually avoids humans. If it approaches you, back away calmly",
+    "Do not feed any wild animals — it makes them aggressive and dependent on humans",
+    "Wild boars are most active at dawn and dusk",
+    "If you see a wild animal acting strangely (disoriented, not afraid), call 112 or a vet"
+  ],
+  "exceptions": [
+    "Female boar with piglets (locha z prosiętami) is extremely dangerous — never get between them",
+    "A fox or badger that approaches humans without fear may have rabies — do not touch, call 112",
+    "Injured wildlife: contact RDOŚ (Regional Directorate for Environmental Protection)"
+  ],
+  "penalties": [
+    "Feeding wild animals in national parks: fine up to 500 PLN",
+    "Disturbing or harming protected species: fine up to 5000 PLN"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie przyrody",
+      "article": "Art. 52"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RDOŚ – Regional Directorate for Environmental Protection",
+      "url": "https://www.gov.pl/web/rdos"
+    },
+    {
+      "title": "Główny Inspektorat Weterynarii",
+      "url": "https://www.wetgiw.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

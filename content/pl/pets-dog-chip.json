@@ -1,0 +1,43 @@
+{
+  "id": "029",
+  "slug": "pets-dog-chip",
+  "language": "pl",
+  "category": "pets",
+  "title": "Czipowanie i rejestracja psa w Polsce",
+  "keywords": ["czip", "mikrochip", "pies", "rejestracja", "obowiązek", "czipowanie", "baza danych"],
+  "question": "Czy czipowanie psa jest obowiązkowe w Polsce?",
+  "short_answer": "Czipowanie jest obowiązkowe w większości polskich gmin. Wymagana jest też rejestracja w krajowej bazie danych. Koszt: 50–100 zł u weterynarza.",
+  "images": [],
+  "conditions": [
+    "Czipowanie jest obowiązkowe w większości miast i gmin w Polsce",
+    "Po czipowaniu: zarejestruj psa w krajowej bazie (Bezpieczny Zwierzak lub lokalny rejestr)",
+    "Wykonuje każda klinika weterynaryjna — koszt: 50–100 zł",
+    "Zalecany wiek: od 8 tygodnia życia",
+    "Chip zawiera unikalny 15-cyfrowy kod ISO odczytywany przez każdy skaner weterynaryjny",
+    "Psy przywiezione z zagranicy muszą być również zarejestrowane w polskich bazach"
+  ],
+  "exceptions": [
+    "Prawo krajowe nie nakłada obowiązku czipowania — sprawdź przepisy swojej gminy",
+    "Koty nie muszą być czipowane, ale jest to silnie zalecane",
+    "Gdy pies zginie: chip to najszybszy sposób na identyfikację właściciela"
+  ],
+  "penalties": [
+    "Zależy od gminy: mandat do 500 zł za niezarejestrowanego lub nieczipowanego psa",
+    "Straż Miejska egzekwuje lokalne przepisy dotyczące zwierząt"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bezpieczny Zwierzak – krajowy rejestr czipów",
+      "url": "https://www.bezpiecznyzwierzak.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

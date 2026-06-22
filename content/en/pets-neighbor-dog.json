@@ -1,0 +1,53 @@
+{
+  "id": "033",
+  "slug": "pets-neighbor-dog",
+  "language": "en",
+  "category": "pets",
+  "title": "Neighbour's aggressive or noisy dog — what to do",
+  "keywords": ["neighbor", "dog", "aggressive", "barking", "complaint", "straż miejska", "noise", "attack"],
+  "question": "What can I do about my neighbour's aggressive or constantly barking dog in Poland?",
+  "short_answer": "You can report to Straż Miejska (municipal police) or the vet inspectorate. If the dog attacked you, call 112 and file a police report.",
+  "images": [],
+  "conditions": [
+    "Constant barking: first try talking to the neighbour calmly",
+    "If that fails: report to Straż Miejska — they handle noise and animal nuisance complaints",
+    "Aggressive dog not on a leash in public: call Straż Miejska immediately",
+    "Dog attacked you: call 112, seek medical help, and file a report at the nearest police station (komisariat)",
+    "Veterinary inspectorate (Inspekcja Weterynaryjna) handles animal welfare violations",
+    "Document everything: photos, videos, dates and times of incidents"
+  ],
+  "exceptions": [
+    "If the dog is being neglected or abused: report to Towarzystwo Opieki nad Zwierzętami (TOZ) or local animal shelter",
+    "In housing cooperatives: also report to the building administrator (zarządca/administrator)",
+    "Repeated attacks by the same dog: court can order the dog to be seized"
+  ],
+  "penalties": [
+    "Owner of attacking dog: civil liability for medical costs and damages",
+    "Unleashed aggressive dog: fine 250–500 PLN",
+    "Animal neglect/cruelty: criminal liability under animal protection law"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    },
+    {
+      "country": "PL",
+      "act": "Kodeks wykroczeń",
+      "article": "Art. 77"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Straż Miejska Gdańsk",
+      "url": "https://www.strazmiejska.gda.pl"
+    },
+    {
+      "title": "TOZ – Towarzystwo Opieki nad Zwierzętami",
+      "url": "https://www.toz.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

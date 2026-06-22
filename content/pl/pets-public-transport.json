@@ -1,0 +1,47 @@
+{
+  "id": "031",
+  "slug": "pets-public-transport",
+  "language": "pl",
+  "category": "pets",
+  "title": "Podróż ze zwierzęciem komunikacją miejską w Polsce",
+  "keywords": ["zwierzę", "transport", "autobus", "pociąg", "pies", "kot", "transporter", "bilet", "PKP", "ZKM"],
+  "question": "Czy mogę zabrać zwierzę do autobusu lub pociągu w Polsce?",
+  "short_answer": "Tak, zwierzęta są dozwolone w większości środków komunikacji publicznej. Małe zwierzęta w transporterze zazwyczaj podróżują bezpłatnie. Większe psy potrzebują biletu i kagańca.",
+  "images": [],
+  "conditions": [
+    "Małe zwierzęta w zamkniętym transporterze (do 50×40×30 cm): zazwyczaj bezpłatnie w autobusach i tramwajach",
+    "Psy bez transportera: wymagają biletu ulgowego — zazwyczaj 50% normalnej ceny",
+    "Psy muszą być na smyczy i w kagańcu w komunikacji miejskiej",
+    "Pociągi PKP Intercity: zwierzęta dozwolone, małe w transporterze bezpłatnie, psy z biletem",
+    "Zasady różnią się w zależności od miasta — sprawdź ZKM Gdańsk lub lokalnego przewoźnika",
+    "Psy przewodniki zawsze jeżdżą bezpłatnie — bez transportera i kagańca"
+  ],
+  "exceptions": [
+    "Niektóre prywatne linie (FlixBus itp.) mogą nie zezwalać na zwierzęta — sprawdź przed zakupem",
+    "W godzinach szczytu niektórzy przewoźnicy odradzają podróży z większymi zwierzętami",
+    "Zwierzęta egzotyczne, gady lub ptaki mogą wymagać dodatkowych warunków"
+  ],
+  "penalties": [
+    "Podróż bez ważnego biletu dla zwierzęcia: mandat jak dla pasażera (40–150 zł)",
+    "Pies bez kagańca lub smyczy: mandat do 500 zł od Straży Miejskiej"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Regulamin przewozu osób i bagażu",
+      "article": "Przepisy lokalnego organizatora transportu"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ZKM Gdańsk – przewóz zwierząt",
+      "url": "https://www.zkm.gdansk.pl"
+    },
+    {
+      "title": "PKP Intercity – podróż ze zwierzętami",
+      "url": "https://www.intercity.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

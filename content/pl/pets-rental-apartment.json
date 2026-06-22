@@ -1,0 +1,42 @@
+{
+  "id": "028",
+  "slug": "pets-rental-apartment",
+  "language": "pl",
+  "category": "pets",
+  "title": "Trzymanie zwierzęcia w wynajmowanym mieszkaniu",
+  "keywords": ["zwierzę", "wynajem", "właściciel", "pies", "kot", "mieszkanie", "umowa", "kaucja"],
+  "question": "Czy mogę trzymać zwierzę w wynajmowanym mieszkaniu w Polsce?",
+  "short_answer": "Polskie prawo nie zabrania trzymania zwierząt w najmie, ale właściciel może wpisać zakaz do umowy. Zawsze sprawdź umowę przed przyprowadzeniem zwierzęcia.",
+  "images": [],
+  "conditions": [
+    "Sprawdź umowę najmu — jeśli nie ma zakazu zwierząt, zazwyczaj możesz je trzymać",
+    "Jeśli umowa mówi 'zakaz trzymania zwierząt' — potrzebujesz pisemnej zgody właściciela",
+    "Najlepiej: zawsze uzyskaj pisemną zgodę właściciela przed przyprowadzeniem zwierzęcia",
+    "Odpowiadasz za wszelkie szkody wyrządzone przez zwierzę",
+    "Właściciel może zażądać wyższej kaucji jeśli masz zwierzęta"
+  ],
+  "exceptions": [
+    "Psy przewodniki i psy asystujące nie mogą być zakazane — chroni to polskie prawo",
+    "Niektóre spółdzielnie mieszkaniowe mają własne regulaminy dotyczące zwierząt",
+    "Naruszenie zakazu zwierząt: właściciel może wypowiedzieć umowę z miesięcznym wyprzedzeniem"
+  ],
+  "penalties": [
+    "Naruszenie zakazu zwierząt: właściciel może potrącić odszkodowanie z kaucji",
+    "Wielokrotne naruszenia: możliwe wypowiedzenie umowy najmu"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie praw lokatorów",
+      "article": "Art. 11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie praw lokatorów – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710733"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

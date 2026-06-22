@@ -1,0 +1,44 @@
+{
+  "id": "034",
+  "slug": "pets-lost-pet",
+  "language": "pl",
+  "category": "pets",
+  "title": "Zgubione lub znalezione zwierzę w Polsce",
+  "keywords": ["zgubiony", "znaleziony", "zwierzę", "pies", "kot", "schronisko", "czip", "OLX", "Facebook"],
+  "question": "Co zrobić jeśli zgubiłem zwierzę lub znalazłem cudze zwierzę w Polsce?",
+  "short_answer": "Gdy zgubiłeś: ogłoszenie na OLX/Facebook, sprawdź schronisko, skontaktuj się ze Strażą Miejską. Gdy znalazłeś: zanieś do weterynarza — skan chipa zidentyfikuje właściciela.",
+  "images": [],
+  "conditions": [
+    "Zgubiłeś zwierzę: natychmiast wstaw ogłoszenie na lokalne grupy Facebook (np. 'Zaginione zwierzęta Gdańsk') i OLX.pl",
+    "Skontaktuj się z lokalnym schroniskiem — bezpańskie zwierzęta często tam trafiają",
+    "Zadzwoń do Straży Miejskiej — zbiera bezpańskie zwierzęta i prowadzi ewidencję",
+    "Znalazłeś zwierzę: zanieś do dowolnej kliniki weterynaryjnej — skanują chip bezpłatnie",
+    "Jeśli zaczipowane: dane właściciela od razu. Jeśli nie: możesz zatrzymać tymczasowo lub oddać do schroniska",
+    "Wstaw ogłoszenie na lokalne grupy Facebook i OLX ze zdjęciem"
+  ],
+  "exceptions": [
+    "Nie masz prawnego obowiązku przetrzymywania znalezionego zwierzęcia — możesz oddać do schroniska",
+    "Jeśli przetrzymujesz znalezione zwierzę przez kilka dni bez szukania właściciela: szara strefa prawna",
+    "Schroniska są zobowiązane przetrzymywać zwierzę przez 14 dni przed oddaniem do adopcji"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schronisko dla Zwierząt Gdańsk",
+      "url": "https://www.schronisko.gdansk.pl"
+    },
+    {
+      "title": "Zaginione i Odnalezione Zwierzęta – Facebook",
+      "url": "https://www.facebook.com/groups/zaginioneodnalezionezwierzeta"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

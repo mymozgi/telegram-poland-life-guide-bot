@@ -1,0 +1,43 @@
+{
+  "id": "032",
+  "slug": "pets-cat-outdoor",
+  "language": "en",
+  "category": "pets",
+  "title": "Cat without a leash outdoors in Poland",
+  "keywords": ["cat", "outdoor", "leash", "free-roaming", "stray", "kot", "smycz", "wolno chodzący"],
+  "question": "Can my cat roam outside without a leash in Poland?",
+  "short_answer": "There is no national law requiring cats to be on a leash. Cats may roam freely, but the owner is responsible for any damage the cat causes.",
+  "images": [],
+  "conditions": [
+    "No national law requires cats to be leashed outdoors",
+    "However: the owner is legally responsible for damage caused by their cat",
+    "Some municipalities (gmina) have local rules restricting free-roaming cats — check locally",
+    "Cats in housing estates (osiedle) may be subject to housing cooperative rules",
+    "Microchipping your cat makes it easy to identify if lost or caught by animal control",
+    "Neutering is strongly encouraged to reduce stray cat populations"
+  ],
+  "exceptions": [
+    "Stray cats (koty wolno żyjące) are protected under the Animal Protection Act — you cannot harm them",
+    "If your cat causes an injury or property damage: you may be held liable",
+    "Housing cooperatives may vote to restrict or ban free-roaming cats on their property"
+  ],
+  "penalties": [
+    "Harming a stray cat: fine up to 1000 PLN or criminal liability under animal protection law",
+    "Cat causing damage to neighbours: civil liability of the owner"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zwierząt – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970110724"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

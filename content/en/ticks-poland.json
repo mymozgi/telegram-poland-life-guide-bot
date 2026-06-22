@@ -1,0 +1,38 @@
+{
+  "id": "027",
+  "slug": "ticks-poland",
+  "language": "en",
+  "category": "nature",
+  "title": "Ticks in Poland — what you need to know",
+  "keywords": ["tick", "kleszcz", "Lyme disease", "borelioza", "forest", "park", "bite", "summer"],
+  "question": "Are ticks dangerous in Poland and what should I do if I get bitten?",
+  "short_answer": "Yes. Ticks in Poland can carry Lyme disease (borelioza) and tick-borne encephalitis (TBE). Season runs April–October. Remove immediately and see a doctor.",
+  "images": [],
+  "conditions": [
+    "Tick season: April to October, peak in May–June and August–September",
+    "High-risk areas: forests, parks, meadows, tall grass",
+    "After outdoor activity: check your whole body, especially armpits, groin, neck, behind knees",
+    "Remove tick with tweezers: grab close to skin, pull straight out — do not twist or crush",
+    "Clean the bite site with antiseptic",
+    "Mark the date of the bite and monitor for 30 days"
+  ],
+  "exceptions": [
+    "Red expanding rash (rumień wędrujący) around the bite = likely Lyme disease — see a doctor immediately",
+    "Flu-like symptoms within days of a bite (fever, headache, fatigue) — see a doctor",
+    "TBE vaccine is available in Poland and recommended for people spending time in forests"
+  ],
+  "penalties": [],
+  "legal_basis": [],
+  "sources": [
+    {
+      "title": "GIS – Główny Inspektorat Sanitarny (tick info)",
+      "url": "https://www.gis.gov.pl"
+    },
+    {
+      "title": "NFZ – Lyme disease treatment",
+      "url": "https://www.nfz.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

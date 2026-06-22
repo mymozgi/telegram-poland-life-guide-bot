@@ -1,0 +1,44 @@
+{
+  "id": "034",
+  "slug": "pets-lost-pet",
+  "language": "en",
+  "category": "pets",
+  "title": "Lost or found a pet in Poland",
+  "keywords": ["lost", "found", "pet", "dog", "cat", "shelter", "schronisko", "chip", "missing", "OLX"],
+  "question": "What should I do if I lost my pet or found someone else's pet in Poland?",
+  "short_answer": "If lost: post on OLX/Facebook groups, check local shelters (schronisko), contact Straż Miejska. If found: take to a vet to scan for a microchip — it identifies the owner instantly.",
+  "images": [],
+  "conditions": [
+    "Lost your pet: immediately post on local Facebook groups (e.g. 'Zaginione zwierzęta Gdańsk') and OLX.pl",
+    "Contact your local animal shelter (schronisko) — stray animals are often brought there",
+    "Call Straż Miejska — they collect stray animals and keep records",
+    "Found a pet: take it to any vet clinic — they scan for a microchip for free",
+    "If chipped: owner details found instantly. If not: you can keep the pet temporarily or hand it to the shelter",
+    "Post in local Facebook groups and OLX with a photo"
+  ],
+  "exceptions": [
+    "You are not legally obligated to keep a found animal — you can hand it to a shelter",
+    "If you keep a found animal for more than a few days without looking for the owner: legal grey area",
+    "Shelters are required to keep an animal for 14 days before offering it for adoption"
+  ],
+  "penalties": [],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Schronisko dla Zwierząt Gdańsk",
+      "url": "https://www.schronisko.gdansk.pl"
+    },
+    {
+      "title": "Zaginione i Odnalezione Zwierzęta – Facebook",
+      "url": "https://www.facebook.com/groups/zaginioneodnalezionezwierzeta"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

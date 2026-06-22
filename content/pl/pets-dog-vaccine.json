@@ -1,0 +1,43 @@
+{
+  "id": "030",
+  "slug": "pets-dog-vaccine",
+  "language": "pl",
+  "category": "pets",
+  "title": "Obowiązkowe szczepienia psów w Polsce",
+  "keywords": ["szczepienie", "wścieklizna", "pies", "weterynarz", "obowiązkowe", "książeczka zdrowia"],
+  "question": "Jakie szczepienia są obowiązkowe dla psów w Polsce?",
+  "short_answer": "Jedynym prawnie obowiązkowym szczepieniem dla psów w Polsce jest szczepienie przeciwko wściekliźnie. Wykonuje się je co roku. Inne szczepienia są silnie zalecane.",
+  "images": [],
+  "conditions": [
+    "Szczepienie przeciwko wściekliźnie: obowiązkowe od 3. miesiąca życia psa",
+    "Powtarzane co roku — weterynarz wyda książeczkę zdrowia ze wpisem",
+    "Przechowuj książeczkę zdrowia — możesz być poproszony o nią na granicy, u weterynarza lub w schronisku",
+    "Zalecane szczepienia: nosówka, parwowiroza, choroba Rubartha, leptospiroza (DHP + L)",
+    "Harmonogram szczeniąt: pierwsze szczepienie 6–8 tydzień, dawki przypominające w 12. i 16. tygodniu",
+    "Koszt: szczepienie na wściekliznę ~50–80 zł, pełny pakiet ~150–250 zł"
+  ],
+  "exceptions": [
+    "Psy podróżujące do krajów UE potrzebują unijnego paszportu dla zwierząt i aktualnego szczepienia na wściekliznę",
+    "Pies przywieziony spoza UE: mogą obowiązywać dodatkowe wymagania (test miana przeciwciał)",
+    "Pies niezaszczepiony który ugryzł człowieka: obowiązkowa 14-dniowa kwarantanna"
+  ],
+  "penalties": [
+    "Brak szczepienia na wściekliznę: mandat do 500 zł",
+    "Egzekwuje Inspekcja Weterynaryjna"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt",
+      "article": "Art. 56"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Główny Inspektorat Weterynarii – szczepienia",
+      "url": "https://www.wetgiw.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

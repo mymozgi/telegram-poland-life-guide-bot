@@ -1,0 +1,43 @@
+{
+  "id": "030",
+  "slug": "pets-dog-vaccine",
+  "language": "en",
+  "category": "pets",
+  "title": "Mandatory vaccinations for dogs in Poland",
+  "keywords": ["vaccine", "rabies", "wścieklizna", "vaccination", "dog", "vet", "szczepienie", "mandatory"],
+  "question": "What vaccinations are mandatory for dogs in Poland?",
+  "short_answer": "Rabies vaccination (wścieklizna) is the only legally mandatory vaccine for dogs in Poland. It must be done annually. Other vaccines are strongly recommended.",
+  "images": [],
+  "conditions": [
+    "Rabies vaccine (szczepienie przeciwko wściekliźnie): mandatory by law from 3 months of age",
+    "Must be repeated annually — vet will give you a vaccination book (książeczka zdrowia)",
+    "Keep the vaccination booklet — you may need to show it at borders, vets, or shelters",
+    "Recommended vaccines: distemper, parvovirus, hepatitis, leptospirosis (DHP + L)",
+    "Puppy schedule: first vaccine at 6–8 weeks, boosters at 12 and 16 weeks",
+    "Cost: rabies vaccine ~50–80 PLN, full package ~150–250 PLN"
+  ],
+  "exceptions": [
+    "Dogs travelling to EU countries need a EU Pet Passport and valid rabies vaccination",
+    "If you bring a dog from outside the EU: additional requirements apply (blood titre test may be needed)",
+    "Unvaccinated dog involved in a bite incident: mandatory 14-day quarantine by law"
+  ],
+  "penalties": [
+    "No rabies vaccination: fine up to 500 PLN",
+    "Enforcement by veterinary inspectorate (Inspekcja Weterynaryjna)"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zdrowia zwierząt oraz zwalczaniu chorób zakaźnych zwierząt",
+      "article": "Art. 56"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Główny Inspektorat Weterynarii – szczepienia",
+      "url": "https://www.wetgiw.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

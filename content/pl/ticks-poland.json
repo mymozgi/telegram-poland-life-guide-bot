@@ -1,0 +1,38 @@
+{
+  "id": "027",
+  "slug": "ticks-poland",
+  "language": "pl",
+  "category": "nature",
+  "title": "Kleszcze w Polsce — co musisz wiedzieć",
+  "keywords": ["kleszcz", "borelioza", "TBE", "las", "park", "ukąszenie", "lato", "wiosna"],
+  "question": "Czy kleszcze w Polsce są niebezpieczne i co zrobić po ukąszeniu?",
+  "short_answer": "Tak. Kleszcze w Polsce mogą przenosić boreliozę i kleszczowe zapalenie mózgu (KZM). Sezon trwa od kwietnia do października. Usuń natychmiast i idź do lekarza.",
+  "images": [],
+  "conditions": [
+    "Sezon kleszczy: kwiecień–październik, szczyt w maju–czerwcu i sierpniu–wrześniu",
+    "Strefy wysokiego ryzyka: lasy, parki, łąki, wysoka trawa",
+    "Po aktywności na świeżym powietrzu: sprawdź całe ciało — pachy, pachwinę, szyję, zgięcia kolan",
+    "Usuń kleszcza pęsetą: chwyć blisko skóry, wyciągnij powoli i prosto — nie kręć i nie miażdż",
+    "Zdezynfekuj miejsce ukąszenia",
+    "Zanotuj datę ukąszenia i obserwuj przez 30 dni"
+  ],
+  "exceptions": [
+    "Czerwona rozszerzająca się wysypka wokół ukąszenia (rumień wędrujący) = prawdopodobna borelioza — idź do lekarza",
+    "Objawy grypopodobne po ukąszeniu (gorączka, ból głowy, zmęczenie) — idź do lekarza",
+    "Szczepionka na KZM jest dostępna w Polsce i zalecana osobom spędzającym czas w lasach"
+  ],
+  "penalties": [],
+  "legal_basis": [],
+  "sources": [
+    {
+      "title": "GIS – Główny Inspektorat Sanitarny",
+      "url": "https://www.gis.gov.pl"
+    },
+    {
+      "title": "NFZ – leczenie boreliozy",
+      "url": "https://www.nfz.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

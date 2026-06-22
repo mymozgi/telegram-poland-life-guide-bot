@@ -1,0 +1,47 @@
+{
+  "id": "026",
+  "slug": "wild-animals",
+  "language": "pl",
+  "category": "nature",
+  "title": "Spotkanie z dzikim zwierzęciem w Polsce",
+  "keywords": ["dzik", "lis", "borsuk", "dzikie zwierzęta", "park", "las", "niebezpieczeństwo", "wścieklizna"],
+  "question": "Co robić gdy spotykam dzika, lisa lub borsuka w parku lub lesie?",
+  "short_answer": "Zachowaj spokój. Nie uciekaj, nie krzycz, nie dokarmiaj. Powoli się wycofaj. Dziki coraz częściej pojawiają się w polskich miastach i parkach.",
+  "images": [],
+  "conditions": [
+    "🐗 Dzik: zatrzymaj się, powoli i cicho się wycofaj. Nigdy nie uciekaj — to wyzwala instynkt pogoni",
+    "🦊 Lis: zachowaj dystans. Miejskie lisy mogą być zarażone wścieklizną. Nie dotykaj i nie dokarmiaj",
+    "🦡 Borsuk: zazwyczaj unika ludzi. Jeśli się zbliża, spokojnie się wycofaj",
+    "Nie dokarmiaj dzikich zwierząt — uzależnia je od ludzi i czyni agresywnymi",
+    "Dziki są najbardziej aktywne o świcie i zmierzchu",
+    "Zwierzę zachowujące się dziwnie (zdezorientowane, niestroniące od ludzi) — zadzwoń na 112 lub do weterynarza"
+  ],
+  "exceptions": [
+    "Locha z prosiętami jest wyjątkowo niebezpieczna — nigdy nie stój między nimi",
+    "Lis lub borsuk zbliżający się do ludzi bez strachu może mieć wściekliznę — nie dotykaj, zadzwoń na 112",
+    "Ranne dzikie zwierzę: skontaktuj się z RDOŚ (Regionalna Dyrekcja Ochrony Środowiska)"
+  ],
+  "penalties": [
+    "Dokarmianie dzikich zwierząt w parkach narodowych: mandat do 500 PLN",
+    "Niepokojenie lub krzywdzenie gatunków chronionych: mandat do 5000 PLN"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie przyrody",
+      "article": "Art. 52"
+    }
+  ],
+  "sources": [
+    {
+      "title": "RDOŚ – Regionalna Dyrekcja Ochrony Środowiska",
+      "url": "https://www.gov.pl/web/rdos"
+    },
+    {
+      "title": "Główny Inspektorat Weterynarii",
+      "url": "https://www.wetgiw.gov.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

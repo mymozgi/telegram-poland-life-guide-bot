@@ -1,0 +1,42 @@
+{
+  "id": "028",
+  "slug": "pets-rental-apartment",
+  "language": "en",
+  "category": "pets",
+  "title": "Keeping a pet in a rented apartment",
+  "keywords": ["pet", "rental", "landlord", "dog", "cat", "apartment", "lease", "contract", "deposit"],
+  "question": "Can I keep a pet in a rented apartment in Poland?",
+  "short_answer": "Polish law does not prohibit pets in rentals, but the landlord can add a no-pets clause to the contract. Always check your lease agreement before bringing a pet.",
+  "images": [],
+  "conditions": [
+    "Check your lease (umowa najmu) — if there is no pets clause, you are generally allowed",
+    "If the lease says 'no pets' (zakaz trzymania zwierząt) — you need written permission from the landlord",
+    "Best practice: always get written consent from the landlord before bringing a pet",
+    "You are responsible for any damage caused by your pet",
+    "Landlord can include a higher deposit (kaucja) if you have pets"
+  ],
+  "exceptions": [
+    "Guide dogs and assistance animals cannot be banned — this is protected by Polish disability law",
+    "Some housing cooperatives (spółdzielnia) have their own internal rules about pets",
+    "If you break a no-pets clause: landlord may terminate the lease with 1 month notice"
+  ],
+  "penalties": [
+    "Breach of no-pets lease clause: landlord can claim damages from deposit",
+    "Repeated violations: lease termination possible"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie praw lokatorów",
+      "article": "Art. 11"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie praw lokatorów – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010710733"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

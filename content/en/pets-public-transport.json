@@ -1,0 +1,47 @@
+{
+  "id": "031",
+  "slug": "pets-public-transport",
+  "language": "en",
+  "category": "pets",
+  "title": "Travelling with a pet on public transport in Poland",
+  "keywords": ["pet", "transport", "bus", "train", "dog", "cat", "carrier", "ticket", "PKP", "ZTM"],
+  "question": "Can I take my pet on a bus or train in Poland?",
+  "short_answer": "Yes, pets are allowed on most public transport in Poland. Small animals in a carrier usually travel free. Larger dogs need a ticket and a muzzle.",
+  "images": [],
+  "conditions": [
+    "Small animals in a closed carrier (up to 50×40×30 cm): usually travel FREE on buses and trams",
+    "Dogs not in a carrier: require a reduced-fare ticket (bilet ulgowy) — typically 50% of normal fare",
+    "Dogs must be on a leash and wear a muzzle (kaganiec) on public transport",
+    "PKP Intercity trains: pets allowed, small animals in carrier free, dogs with ticket",
+    "Rules vary by city — check ZKM Gdańsk, ZTM Warsaw, or your local transport authority",
+    "Guide dogs always travel free — no carrier or muzzle required"
+  ],
+  "exceptions": [
+    "Some private bus lines (FlixBus, etc.) may not allow pets — check before booking",
+    "During peak hours some carriers advise against travelling with larger pets",
+    "Exotic animals, reptiles, or birds may require additional conditions"
+  ],
+  "penalties": [
+    "Travelling without a valid ticket for your pet: fine same as for humans (40–150 PLN)",
+    "Dog without muzzle or leash: fine up to 500 PLN from Straż Miejska"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Regulamin przewozu osób i bagażu",
+      "article": "Local transport authority regulations"
+    }
+  ],
+  "sources": [
+    {
+      "title": "ZKM Gdańsk – przewóz zwierząt",
+      "url": "https://www.zkm.gdansk.pl"
+    },
+    {
+      "title": "PKP Intercity – podróż ze zwierzętami",
+      "url": "https://www.intercity.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

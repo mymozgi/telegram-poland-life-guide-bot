@@ -1,0 +1,43 @@
+{
+  "id": "029",
+  "slug": "pets-dog-chip",
+  "language": "en",
+  "category": "pets",
+  "title": "Dog microchip registration in Poland",
+  "keywords": ["microchip", "chip", "dog", "registration", "mandatory", "czip", "rejestracja", "pies"],
+  "question": "Is microchipping my dog mandatory in Poland?",
+  "short_answer": "Microchipping is mandatory for dogs in most Polish municipalities. It is also required to register in the national animal database. Cost: 50–100 PLN at a vet.",
+  "images": [],
+  "conditions": [
+    "Microchipping (czipowanie) is mandatory in most Polish cities and municipalities",
+    "After chipping: register in the national database (Safe Animal — Bezpieczny Zwierzak or local registry)",
+    "Done at any veterinary clinic — cost: 50–100 PLN",
+    "Recommended age: from 8 weeks",
+    "The chip contains a unique 15-digit ISO code readable by any vet scanner",
+    "Dogs brought from abroad must also be registered in Polish databases"
+  ],
+  "exceptions": [
+    "National law does not uniformly require chipping — check your local municipality regulations (gmina)",
+    "Cats are not required to be chipped nationally, but it is strongly recommended",
+    "If your dog is lost: chip is the fastest way to identify the owner"
+  ],
+  "penalties": [
+    "Varies by municipality: fine up to 500 PLN for unregistered/unchipped dog",
+    "Straż Miejska enforces local animal regulations"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 10a"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bezpieczny Zwierzak – national chip registry",
+      "url": "https://www.bezpiecznyzwierzak.pl"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "032",
+  "slug": "pets-cat-outdoor",
+  "language": "pl",
+  "category": "pets",
+  "title": "Kot bez smyczy na zewnątrz w Polsce",
+  "keywords": ["kot", "smycz", "wolno chodzący", "na zewnątrz", "bezpański", "odpowiedzialność"],
+  "question": "Czy kot może wychodzić bez smyczy w Polsce?",
+  "short_answer": "Polskie prawo nie wymaga trzymania kotów na smyczy. Koty mogą swobodnie chodzić, ale właściciel odpowiada za szkody wyrządzone przez kota.",
+  "images": [],
+  "conditions": [
+    "Brak krajowego prawa nakazującego trzymanie kotów na smyczy",
+    "Jednak: właściciel ponosi prawną odpowiedzialność za szkody wyrządzone przez kota",
+    "Niektóre gminy mają lokalne przepisy ograniczające wolno chodzące koty — sprawdź lokalnie",
+    "Koty na osiedlach mogą podlegać regulaminowi spółdzielni mieszkaniowej",
+    "Czipowanie kota ułatwia identyfikację gdy się zgubi lub trafi do schroniska",
+    "Kastracja jest silnie zalecana w celu ograniczenia populacji kotów bezpańskich"
+  ],
+  "exceptions": [
+    "Koty wolno żyjące są chronione ustawą o ochronie zwierząt — nie wolno im krzywdzić",
+    "Jeśli kot wyrządzi szkodę lub uszkodzenie: właściciel może ponosić odpowiedzialność cywilną",
+    "Spółdzielnie mieszkaniowe mogą ograniczyć lub zakazać wolno chodzących kotów na swoim terenie"
+  ],
+  "penalties": [
+    "Skrzywdzenie bezpańskiego kota: mandat do 1000 zł lub odpowiedzialność karna",
+    "Szkoda wyrządzona przez kota sąsiadom: odpowiedzialność cywilna właściciela"
+  ],
+  "legal_basis": [
+    {
+      "country": "PL",
+      "act": "Ustawa o ochronie zwierząt",
+      "article": "Art. 1"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ustawa o ochronie zwierząt – Sejm RP",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970110724"
+    }
+  ],
+  "updated_at": "2026-06-14",
+  "status": "published"
+}
